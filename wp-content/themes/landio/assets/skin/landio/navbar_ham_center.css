@@ -1,0 +1,22 @@
+.uicore-menu .ui-menu-item-wrapper, .uicore-custom-area .uicore-hca a  {
+	position: relative;
+}
+.uicore-menu .ui-menu-item-wrapper:before, .uicore-custom-area .uicore-hca a:before {
+	content: '';
+    position: absolute;
+    z-index: -1;
+    bottom: -5px;
+    width: 100%;
+    height: 2px;
+	opacity: .75;
+    transform: scale3d(0,1,1);
+    transform-origin: 100% 50%;
+    transition: transform 0.3s;
+    transition-timing-function: cubic-bezier(0.2,1,0.3,1);
+    background: var(--uicore-header--menu-typo-ch); /*nu e ok pe submenu*/
+}
+.uicore-menu li.menu-item:hover>a .ui-menu-item-wrapper:before, .uicore-custom-area .uicore-hca a:hover:before {
+	transform: scale3d(1,1,1);
+	transform-origin: 0% 50%;
+    transition-timing-function: ease;
+}

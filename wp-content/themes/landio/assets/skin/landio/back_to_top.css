@@ -1,0 +1,7 @@
+#uicore-back-to-top {
+	transition: transform .27s cubic-bezier(.4,0,.21,.99);
+	border-radius: 50px;
+}
+#uicore-back-to-top:hover {
+	transform: rotate(180deg) translateY(5px);
+}

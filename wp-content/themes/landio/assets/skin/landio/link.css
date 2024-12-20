@@ -1,0 +1,46 @@
+.entry-content p a, .entry-content p a:hover {
+	color: var(--e-global-color-uicore_primary);
+	position: relative;
+}
+.entry-content p a:before {
+	content: '';
+    position: absolute;
+    bottom: -5px;
+    width: 100%;
+    height: 2px;
+	opacity: .75;
+    transform: scale3d(0,1,1);
+    transform-origin: 100% 50%;
+    transition: transform 0.3s;
+    transition-timing-function: cubic-bezier(0.2,1,0.3,1);
+    background: currentColor;
+}
+.entry-content p a:hover:before {
+	transform: scale3d(1,1,1);
+	transform-origin: 0% 50%;
+    transition-timing-function: ease;
+}
+a .ui-skin {
+    position: relative;
+}
+
+a .ui-skin:before {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    bottom: -5px;
+    width: 100%;
+    height: 2px;
+    opacity: .75;
+    transform: scale3d(0, 1, 1);
+    transform-origin: 100% 50%;
+    transition: transform 0.3s;
+    transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
+    background: currentColor;
+}
+
+a:hover .ui-skin:before {
+    transform: scale3d(1, 1, 1);
+    transform-origin: 0% 50%;
+    transition-timing-function: ease;
+}

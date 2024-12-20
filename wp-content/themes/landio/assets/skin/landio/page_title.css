@@ -1,0 +1,25 @@
+.ui-breadcrumb, .uicore-page-title .uicore-entry-meta, .uicore-entry-meta .uicore-post-category {
+	text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 1px;
+	font-weight: 600;
+}
+.uicore-page-title .uicore-entry-meta span {
+    text-transform: uppercase;
+}
+.uicore-page-title .uicore .uicore-separator {
+	font-family: inherit !important;
+}
+.uicore.uicore-page-title .uicore .uicore-separator:before, .uicore-entry-meta .uicore-meta-separator:before {
+    opacity: .5;
+    content: "/";
+    transform: none;
+	font-size: inherit;
+	vertical-align: unset;
+}
+.ui-post-nav .ui-post-nav-item .ui-post-nav-info {
+	letter-spacing: 1px;
+}
+.uicore-description {
+    font-size: 14px;
+}

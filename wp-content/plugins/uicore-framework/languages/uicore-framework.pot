@@ -1,0 +1,5861 @@
+# Copyright (C) 2022 uicore-framework
+# This file is distributed under the same license as the uicore-framework package.
+msgid ""
+msgstr ""
+"Project-Id-Version: uicore-framework\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/class-admin.php:82
+msgid "Get Started"
+msgstr ""
+
+#: ../includes/class-admin.php:83
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/class-admin.php:84
+msgid "System"
+msgstr ""
+
+#: ../includes/class-admin.php:431
+msgid "Portfolio Page"
+msgstr ""
+
+#: ../includes/class-admin.php:660
+msgid "Simple Megamenu"
+msgstr ""
+
+#: ../includes/class-admin.php:664
+msgid "Auto Width"
+msgstr ""
+
+#: ../includes/class-admin.php:665
+msgid "Full Width"
+msgstr ""
+
+#: ../includes/class-admin.php:666
+msgid "Full Width Contained"
+msgstr ""
+
+#: ../includes/class-admin.php:671
+msgid "Image"
+msgstr ""
+
+#: ../includes/class-admin.php:675
+msgid "Select Image"
+msgstr ""
+
+#: ../includes/class-admin.php:676
+msgid "Remove Image"
+msgstr ""
+
+#: ../includes/class-admin.php:681
+msgid "Icon"
+msgstr ""
+
+#: ../includes/class-admin.php:685
+msgid "Left Aligned"
+msgstr ""
+
+#: ../includes/class-admin.php:686
+msgid "Right Aligned"
+msgstr ""
+
+#: ../includes/class-admin.php:689
+msgid "Select Icon"
+msgstr ""
+
+#: ../includes/class-admin.php:690
+msgid "Remove Icon"
+msgstr ""
+
+#: ../includes/class-admin.php:693, ../includes/class-admin.php:706
+msgid "Select Color"
+msgstr ""
+
+#: ../includes/class-admin.php:701
+msgid "Badge"
+msgstr ""
+
+#: ../includes/class-admin.php:707
+msgid "Remove Badge"
+msgstr ""
+
+#: ../includes/class-common.php:72
+msgid "Clear Theme Cache"
+msgstr ""
+
+#: ../includes/class-common.php:73
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/class-common.php:74
+msgid "Branding"
+msgstr ""
+
+#: ../includes/class-common.php:75
+msgid "Top Banner"
+msgstr ""
+
+#: ../includes/class-common.php:76, ../includes/elementor/theme-builder/class-admin.php:180
+msgid "Header"
+msgstr ""
+
+#: ../includes/class-common.php:77, ../includes/elementor/theme-builder/class-admin.php:181
+msgid "Footer"
+msgstr ""
+
+#: ../includes/class-common.php:78
+msgid "Page Title"
+msgstr ""
+
+#: ../includes/class-common.php:79
+msgid "Blog"
+msgstr ""
+
+#: ../includes/class-common.php:80, ../includes/portfolio/class-common.php:37
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/class-common.php:81
+msgid "WooCommerce"
+msgstr ""
+
+#: ../includes/class-common.php:82
+msgid "Social"
+msgstr ""
+
+#: ../includes/class-common.php:83
+msgid "Custom"
+msgstr ""
+
+#: ../includes/class-common.php:277
+msgid "Top Bar Column One"
+msgstr ""
+
+#: ../includes/class-common.php:278
+msgid "Top Bar Column Two"
+msgstr ""
+
+#: ../includes/class-frontend.php:278
+msgctxt "Frontend - Mobile submenu"
+msgid "Back"
+msgstr ""
+
+#: ../includes/blog/class-template.php:173
+msgctxt "Frontend - Blog"
+msgid "View Post:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: ../includes/blog/class-template.php:321
+msgctxt "Frontend - Blog"
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../includes/blog/class-template.php:333
+msgctxt "Frontend - Blog"
+msgid "Pages:"
+msgstr ""
+
+#: ../includes/blog/class-template.php:428, ../includes/templates/page-title.php:261
+msgctxt "Frontend - Blog Meta"
+msgid "Posted On:"
+msgstr ""
+
+#: ../includes/blog/class-template.php:439, ../includes/templates/page-title.php:272
+msgctxt "Frontend - Blog Meta"
+msgid "Updated On:"
+msgstr ""
+
+#: ../includes/blog/class-template.php:484
+msgctxt "Frontend - Search"
+msgid "No results"
+msgstr ""
+
+#: ../includes/blog/class-template.php:485
+msgctxt "Frontend - Search"
+msgid "We did not find any article that matches this search. Try using other search criteria:"
+msgstr ""
+
+#: ../includes/blog/class-template.php:507
+msgctxt "Frontend - Blog"
+msgid "Previous Article"
+msgstr ""
+
+#: ../includes/blog/class-template.php:523
+msgctxt "Frontend - Blog"
+msgid "Next Article"
+msgstr ""
+
+#. translators: %s: Author's display name.
+#: ../includes/blog/class-template.php:563
+msgid "View %s&#8217;s posts"
+msgstr ""
+
+#. translators: %s: Author's display name.
+#: ../includes/blog/class-template.php:574
+msgid "Visit %s&#8217;s website"
+msgstr ""
+
+#: ../includes/blog/class-template.php:597
+msgid "You may also like"
+msgstr ""
+
+#: ../includes/elementor/class-core.php:635
+msgid "UiCore Custom"
+msgstr ""
+
+#: ../includes/elementor/class-core.php:636
+msgid "UiCore Typekit"
+msgstr ""
+
+#: ../includes/elementor/class-core.php:733
+msgid "Themify Icons"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:37
+msgid "Align to Container"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:38
+msgid "Align the column to website container. Only works on top-level, full-width sections."
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:102
+msgid "Fluid Gradient"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:106
+msgid "Enable Fluid Gradient background."
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:116, ../includes/elementor/widgets/highlighted-text.php:236
+msgid "Animation"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:120, ../includes/elementor/widgets/highlighted-text.php:77
+msgid "None"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:121
+msgid "Style 1"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:122
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:123
+msgid "Style 3"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:124
+msgid "Style 4"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:125
+msgid "Style 5"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:137
+msgid "Opacity"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:158
+msgid "Color 1"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:171
+msgid "Color 2"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:184
+msgid "Color 3"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:197
+msgid "Color 4"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:225
+msgid "Enable floating animation"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:226
+msgid "Add a looping up-down animation."
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:238
+msgid "Floating height"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:242
+msgid "Small"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:243, ../includes/elementor/widgets/post-grid.php:122
+msgid "Default"
+msgstr ""
+
+#: ../includes/elementor/class-extender.php:244
+msgid "Large"
+msgstr ""
+
+#: ../includes/extra/class-data.php:590
+msgctxt "Admin - Theme Options Menu"
+msgid "GET STARTED"
+msgstr ""
+
+#: ../includes/extra/class-data.php:591
+msgctxt "Admin - Theme Options Menu"
+msgid "Dashboard"
+msgstr ""
+
+#: ../includes/extra/class-data.php:592
+msgctxt "Admin - Theme Options Menu"
+msgid "Demo Import"
+msgstr ""
+
+#: ../includes/extra/class-data.php:593
+msgctxt "Admin - Theme Options Menu"
+msgid "DESIGN SYSTEM"
+msgstr ""
+
+#: ../includes/extra/class-data.php:594
+msgctxt "Admin - Theme Options Menu"
+msgid "Global Colors"
+msgstr ""
+
+#: ../includes/extra/class-data.php:595
+msgctxt "Admin - Theme Options Menu"
+msgid "Global Fonts"
+msgstr ""
+
+#: ../includes/extra/class-data.php:596
+msgctxt "Admin - Theme Options Menu"
+msgid "THEME STYLE"
+msgstr ""
+
+#: ../includes/extra/class-data.php:597
+msgctxt "Admin - Theme Options Menu"
+msgid "Typography"
+msgstr ""
+
+#: ../includes/extra/class-data.php:598
+msgctxt "Admin - Theme Options Menu"
+msgid "Buttons"
+msgstr ""
+
+#: ../includes/extra/class-data.php:599
+msgctxt "Admin - Theme Options Menu"
+msgid "Animations"
+msgstr ""
+
+#: ../includes/extra/class-data.php:600
+msgctxt "Admin - Theme Options Menu"
+msgid "Theme Skin"
+msgstr ""
+
+#: ../includes/extra/class-data.php:601
+msgctxt "Admin - Theme Options Menu"
+msgid "SETTINGS"
+msgstr ""
+
+#: ../includes/extra/class-data.php:602
+msgctxt "Admin - Theme Options Menu"
+msgid "Branding"
+msgstr ""
+
+#: ../includes/extra/class-data.php:603
+msgctxt "Admin - Theme Options Menu"
+msgid "General"
+msgstr ""
+
+#: ../includes/extra/class-data.php:604
+msgctxt "Admin - Theme Options Menu"
+msgid "Top Banner"
+msgstr ""
+
+#: ../includes/extra/class-data.php:605
+msgctxt "Admin - Theme Options Menu"
+msgid "Header"
+msgstr ""
+
+#: ../includes/extra/class-data.php:606
+msgctxt "Admin - Theme Options Menu"
+msgid "Footer"
+msgstr ""
+
+#: ../includes/extra/class-data.php:607
+msgctxt "Admin - Theme Options Menu"
+msgid "Page Title"
+msgstr ""
+
+#: ../includes/extra/class-data.php:608
+msgctxt "Admin - Theme Options Menu"
+msgid "Blog"
+msgstr ""
+
+#: ../includes/extra/class-data.php:609
+msgctxt "Admin - Theme Options Menu"
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/extra/class-data.php:610
+msgctxt "Admin - Theme Options Menu"
+msgid "WooCommerce"
+msgstr ""
+
+#: ../includes/extra/class-data.php:611
+msgctxt "Admin - Theme Options Menu"
+msgid "Social"
+msgstr ""
+
+#: ../includes/extra/class-data.php:612
+msgctxt "Admin - Theme Options Menu"
+msgid "Custom"
+msgstr ""
+
+#: ../includes/extra/class-data.php:613
+msgctxt "Admin - Theme Options Menu"
+msgid "MISC"
+msgstr ""
+
+#: ../includes/extra/class-data.php:614
+msgctxt "Admin - Theme Options Menu"
+msgid "Performance"
+msgstr ""
+
+#: ../includes/extra/class-data.php:615
+msgctxt "Admin - Theme Options Menu"
+msgid "System"
+msgstr ""
+
+#: ../includes/extra/class-data.php:616
+msgctxt "Admin - Theme Options Menu"
+msgid "Updates"
+msgstr ""
+
+#: ../includes/extra/class-data.php:617
+msgctxt "Admin - Theme Options Menu"
+msgid "Plugins"
+msgstr ""
+
+#: ../includes/extra/class-data.php:618
+msgctxt "Admin - Theme Options Menu"
+msgid "Preset Manager"
+msgstr ""
+
+#: ../includes/extra/class-data.php:619
+msgctxt "Admin - Theme Options Menu"
+msgid "Admin Customizer"
+msgstr ""
+
+#: ../includes/extra/class-data.php:622
+msgctxt "Admin - Theme Options General"
+msgid "Search for settings"
+msgstr ""
+
+#: ../includes/extra/class-data.php:623
+msgctxt "Admin - Theme Options General"
+msgid "No Settings Found for this search."
+msgstr ""
+
+#: ../includes/extra/class-data.php:624
+msgctxt "Admin - Theme Options General"
+msgid "Simplified View"
+msgstr ""
+
+#: ../includes/extra/class-data.php:625
+msgctxt "Admin - Theme Options General"
+msgid "Switch to Dark Mode"
+msgstr ""
+
+#: ../includes/extra/class-data.php:626
+msgctxt "Admin - Theme Options General"
+msgid "Switch to Light Mode"
+msgstr ""
+
+#: ../includes/extra/class-data.php:627
+msgctxt "Admin - Theme Options General"
+msgid "See Documentation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:628
+msgctxt "Admin - Theme Options General"
+msgid "Save"
+msgstr ""
+
+#: ../includes/extra/class-data.php:629
+msgctxt "Admin - Theme Options General"
+msgid "Saved"
+msgstr ""
+
+#: ../includes/extra/class-data.php:630
+msgctxt "Admin - Theme Options General"
+msgid "Error!"
+msgstr ""
+
+#: ../includes/extra/class-data.php:631
+msgctxt "Admin - Theme Options General"
+msgid "Done!"
+msgstr ""
+
+#: ../includes/extra/class-data.php:632
+msgctxt "Admin - Theme Options General"
+msgid "Please Wait"
+msgstr ""
+
+#: ../includes/extra/class-data.php:633
+msgctxt "Admin - Theme Options General"
+msgid "Install"
+msgstr ""
+
+#: ../includes/extra/class-data.php:634
+msgctxt "Admin - Theme Options General"
+msgid "Active"
+msgstr ""
+
+#: ../includes/extra/class-data.php:635
+msgctxt "Admin - Theme Options General"
+msgid "Activate"
+msgstr ""
+
+#: ../includes/extra/class-data.php:636
+msgctxt "Admin - Theme Options General"
+msgid "Saving"
+msgstr ""
+
+#: ../includes/extra/class-data.php:637
+msgctxt "Admin - Theme Options General"
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/extra/class-data.php:638
+msgctxt "Admin - Theme Options General"
+msgid "Add New"
+msgstr ""
+
+#: ../includes/extra/class-data.php:639
+msgctxt "Admin - Theme Options General"
+msgid "No Results"
+msgstr ""
+
+#: ../includes/extra/class-data.php:640
+msgctxt "Admin - Theme Options General"
+msgid "Sidebars style is disabled from Performance"
+msgstr ""
+
+#: ../includes/extra/class-data.php:641
+msgctxt "Admin - Theme Options General"
+msgid "For better performance, it's recommended you limit typography to two font families."
+msgstr ""
+
+#: ../includes/extra/class-data.php:644
+msgctxt "Admin - Theme Options Import"
+msgid "Import Demo Templates"
+msgstr ""
+
+#: ../includes/extra/class-data.php:646
+msgctxt "Admin - Theme Options Import"
+msgid ""
+"Before running Demo Import, make sure %s Server Stattus %s is all green. If any values\n"
+"                            don’t meet the minimum requirements, process might not run properly."
+msgstr ""
+
+#: ../includes/extra/class-data.php:649
+msgctxt "Admin - Theme Options Import"
+msgid "Run Demo Import"
+msgstr ""
+
+#: ../includes/extra/class-data.php:650
+msgctxt "Admin - Theme Options Import"
+msgid "Import Inner Pages"
+msgstr ""
+
+#: ../includes/extra/class-data.php:651
+msgctxt "Admin - Theme Options Import"
+msgid "comes with a complete set of ready-made inner pages. This process will import all pages with no theme options settings."
+msgstr ""
+
+#: ../includes/extra/class-data.php:652
+msgctxt "Admin - Theme Options Import"
+msgid "Run Pages Import"
+msgstr ""
+
+#: ../includes/extra/class-data.php:653
+msgctxt "Admin - Theme Options Import"
+msgid "ReImport Pages"
+msgstr ""
+
+#: ../includes/extra/class-data.php:654
+msgctxt "Admin - Theme Options Import"
+msgid "Getting data from Server"
+msgstr ""
+
+#: ../includes/extra/class-data.php:655
+msgctxt "Admin - Theme Options Import"
+msgid "Downloading and importing Media"
+msgstr ""
+
+#: ../includes/extra/class-data.php:656
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Pages"
+msgstr ""
+
+#: ../includes/extra/class-data.php:658
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Forms"
+msgstr ""
+
+#: ../includes/extra/class-data.php:659
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Portfolio"
+msgstr ""
+
+#: ../includes/extra/class-data.php:660
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Products"
+msgstr ""
+
+#: ../includes/extra/class-data.php:661
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Theme Options"
+msgstr ""
+
+#: ../includes/extra/class-data.php:662
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Menu"
+msgstr ""
+
+#: ../includes/extra/class-data.php:663, ../includes/extra/class-data.php:669
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Widgets"
+msgstr ""
+
+#: ../includes/extra/class-data.php:664
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Headers"
+msgstr ""
+
+#: ../includes/extra/class-data.php:665
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Footers"
+msgstr ""
+
+#: ../includes/extra/class-data.php:666
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Mega Menu"
+msgstr ""
+
+#: ../includes/extra/class-data.php:667
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Blocks"
+msgstr ""
+
+#: ../includes/extra/class-data.php:668
+msgctxt "Admin - Theme Options Import"
+msgid "Importing Popup"
+msgstr ""
+
+#: ../includes/extra/class-data.php:671
+msgctxt "Admin - Theme Options Import"
+msgid "Import process Done!"
+msgstr ""
+
+#: ../includes/extra/class-data.php:672
+msgctxt "Admin - Theme Options Import"
+msgid "There was an issue with the import"
+msgstr ""
+
+#: ../includes/extra/class-data.php:673
+msgctxt "Admin - Theme Options Import"
+msgid "Looking to import a single page or section?"
+msgstr ""
+
+#: ../includes/extra/class-data.php:674
+msgctxt "Admin - Theme Options Import"
+msgid ""
+"You can import any of the pages/sections available in Demo Import, directly into Elementor Page Builder,\n"
+"                                    using UiCore template library."
+msgstr ""
+
+#: ../includes/extra/class-data.php:676
+msgctxt "Admin - Theme Options Import"
+msgid "Learn about"
+msgstr ""
+
+#: ../includes/extra/class-data.php:677
+msgctxt "Admin - Theme Options Import"
+msgid "Demo Import not working properly?"
+msgstr ""
+
+#: ../includes/extra/class-data.php:679
+msgctxt "Admin - Theme Options Import"
+msgid ""
+" Demo Import is a complex process that usually fails (or doesn't work as intended) due to low default limits on your server.\n"
+"                     Whenever this happens, you will see an error message after the import and the last error will be stored in %s Error Log %s.\n"
+"                     Luckily, most of these errors can be fixed by changing your server configuration."
+msgstr ""
+
+#: ../includes/extra/class-data.php:683
+msgctxt "Admin - Theme Options Import"
+msgid "Demo Import Troubleshooting"
+msgstr ""
+
+#: ../includes/extra/class-data.php:685
+msgctxt "Admin - Theme Options Import"
+msgid "Import"
+msgstr ""
+
+#: ../includes/extra/class-data.php:686
+msgctxt "Admin - Theme Options Import"
+msgid "Preview"
+msgstr ""
+
+#: ../includes/extra/class-data.php:687
+msgctxt "Admin - Theme Options Import"
+msgid "Demo list is updating"
+msgstr ""
+
+#: ../includes/extra/class-data.php:688, ../includes/extra/class-data.php:690
+msgctxt "Admin - Theme Options Import"
+msgid "Demo content is loading."
+msgstr ""
+
+#: ../includes/extra/class-data.php:689
+msgctxt "Admin - Theme Options Import"
+msgid "THE FOLLOWING PLUGINS ARE REQUIRED AND WILL BE INSTALLED:"
+msgstr ""
+
+#: ../includes/extra/class-data.php:691
+msgctxt "Admin - Theme Options Import"
+msgid "Import Content:"
+msgstr ""
+
+#: ../includes/extra/class-data.php:692
+msgctxt "Admin - Theme Options Import"
+msgid "Pages"
+msgstr ""
+
+#: ../includes/extra/class-data.php:693
+msgctxt "Admin - Theme Options Import"
+msgid "Posts."
+msgstr ""
+
+#: ../includes/extra/class-data.php:694
+msgctxt "Admin - Theme Options Import"
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/extra/class-data.php:695
+msgctxt "Admin - Theme Options Import"
+msgid "Products"
+msgstr ""
+
+#: ../includes/extra/class-data.php:696
+msgctxt "Admin - Theme Options Import"
+msgid "Media"
+msgstr ""
+
+#: ../includes/extra/class-data.php:697
+msgctxt "Admin - Theme Options Import"
+msgid "Header"
+msgstr ""
+
+#: ../includes/extra/class-data.php:698
+msgctxt "Admin - Theme Options Import"
+msgid "Footer"
+msgstr ""
+
+#: ../includes/extra/class-data.php:699
+msgctxt "Admin - Theme Options Import"
+msgid "Mega Menu"
+msgstr ""
+
+#: ../includes/extra/class-data.php:700
+msgctxt "Admin - Theme Options Import"
+msgid "Block"
+msgstr ""
+
+#: ../includes/extra/class-data.php:701
+msgctxt "Admin - Theme Options Import"
+msgid "Popup"
+msgstr ""
+
+#: ../includes/extra/class-data.php:702
+msgctxt "Admin - Theme Options Import"
+msgid "Widgets"
+msgstr ""
+
+#: ../includes/extra/class-data.php:703
+msgctxt "Admin - Theme Options Import"
+msgid "Navigation Menu Items"
+msgstr ""
+
+#: ../includes/extra/class-data.php:704
+msgctxt "Admin - Theme Options Import"
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/extra/class-data.php:705
+msgctxt "Admin - Theme Options Import"
+msgid "Require Update"
+msgstr ""
+
+#: ../includes/extra/class-data.php:706
+msgctxt "Admin - Theme Options Import"
+msgid "New"
+msgstr ""
+
+#: ../includes/extra/class-data.php:707
+msgctxt "Admin - Theme Options Import"
+msgid "Installing and Activating Required Plugins"
+msgstr ""
+
+#: ../includes/extra/class-data.php:708
+msgctxt "Admin - Theme Options Import"
+msgid "Installing"
+msgstr ""
+
+#: ../includes/extra/class-data.php:709
+msgctxt "Admin - Theme Options Import"
+msgid "Activating"
+msgstr ""
+
+#: ../includes/extra/class-data.php:710
+msgctxt "Admin - Theme Options Import"
+msgid "Errors occurred during import. See Error Log."
+msgstr ""
+
+#: ../includes/extra/class-data.php:711
+msgctxt "Admin - Theme Options Import"
+msgid "Back to Dashboard"
+msgstr ""
+
+#: ../includes/extra/class-data.php:712
+msgctxt "Admin - Theme Options Import"
+msgid "View Site"
+msgstr ""
+
+#: ../includes/extra/class-data.php:713
+msgctxt "Admin - Theme Options Import"
+msgid "Please chose at least 1 content type to continue"
+msgstr ""
+
+#: ../includes/extra/class-data.php:716
+msgctxt "Admin - Theme Options Fonts"
+msgid "Custom Fonts"
+msgstr ""
+
+#: ../includes/extra/class-data.php:717
+msgctxt "Admin - Theme Options Fonts"
+msgid "Font Family"
+msgstr ""
+
+#: ../includes/extra/class-data.php:718
+msgctxt "Admin - Theme Options Fonts"
+msgid "Font Style"
+msgstr ""
+
+#: ../includes/extra/class-data.php:719
+msgctxt "Admin - Theme Options Fonts"
+msgid "Text Transform"
+msgstr ""
+
+#: ../includes/extra/class-data.php:720
+msgctxt "Admin - Theme Options Fonts"
+msgid "Font Size"
+msgstr ""
+
+#: ../includes/extra/class-data.php:721
+msgctxt "Admin - Theme Options Fonts"
+msgid "Line Height"
+msgstr ""
+
+#: ../includes/extra/class-data.php:722
+msgctxt "Admin - Theme Options Fonts"
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../includes/extra/class-data.php:723
+msgctxt "Admin - Theme Options Fonts"
+msgid "For better performance, it's recommended you limit typography to two font families."
+msgstr ""
+
+#: ../includes/extra/class-data.php:726
+msgctxt "Admin - Theme Options Colors"
+msgid "Main Color"
+msgstr ""
+
+#: ../includes/extra/class-data.php:727
+msgctxt "Admin - Theme Options Colors"
+msgid "Color"
+msgstr ""
+
+#: ../includes/extra/class-data.php:728
+msgctxt "Admin - Theme Options Colors"
+msgid "Hover Color"
+msgstr ""
+
+#: ../includes/extra/class-data.php:729
+msgctxt "Admin - Theme Options Colors"
+msgid "Font Size"
+msgstr ""
+
+#: ../includes/extra/class-data.php:730
+msgctxt "Admin - Theme Options Colors"
+msgid "Line Height"
+msgstr ""
+
+#: ../includes/extra/class-data.php:731
+msgctxt "Admin - Theme Options Colors"
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../includes/extra/class-data.php:734
+msgctxt "Admin - Theme Options Animations"
+msgid "Animations are disabled globally from Performance."
+msgstr ""
+
+#: ../includes/extra/class-data.php:735
+msgctxt "Admin - Theme Options Animations"
+msgid "Page Transition"
+msgstr ""
+
+#: ../includes/extra/class-data.php:736
+msgctxt "Admin - Theme Options Animations"
+msgid "Top Banner Animation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:737
+msgctxt "Admin - Theme Options Animations"
+msgid "Header Animation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:738
+msgctxt "Admin - Theme Options Animations"
+msgid "Hamburger Menu Transition"
+msgstr ""
+
+#: ../includes/extra/class-data.php:739
+msgctxt "Admin - Theme Options Animations"
+msgid "Submenu Animation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:740
+msgctxt "Admin - Theme Options Animations"
+msgid "Mobile Menu Animation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:741
+msgctxt "Admin - Theme Options Animations"
+msgid "Mobile Submenu Animation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:742
+msgctxt "Admin - Theme Options Animations"
+msgid "Page Title Animation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:743
+msgctxt "Admin - Theme Options Animations"
+msgid "Footer Animation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:744
+msgctxt "Admin - Theme Options Animations"
+msgid "Blog Animation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:745
+msgctxt "Admin - Theme Options Animations"
+msgid "Portfolio Animation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:746
+msgctxt "Admin - Theme Options Animations"
+msgid "Shop Animation"
+msgstr ""
+
+#: ../includes/extra/class-data.php:749
+msgctxt "Admin - Theme Options Header"
+msgid "Header Style"
+msgstr ""
+
+#: ../includes/extra/class-data.php:750
+msgctxt "Admin - Theme Options Header"
+msgid "Classic"
+msgstr ""
+
+#: ../includes/extra/class-data.php:751
+msgctxt "Admin - Theme Options Header"
+msgid "Classic Center"
+msgstr ""
+
+#: ../includes/extra/class-data.php:752
+msgctxt "Admin - Theme Options Header"
+msgid "Center Creative"
+msgstr ""
+
+#: ../includes/extra/class-data.php:753
+msgctxt "Admin - Theme Options Header"
+msgid "Left Header"
+msgstr ""
+
+#: ../includes/extra/class-data.php:754
+msgctxt "Admin - Theme Options Header"
+msgid "Hamburger Classic"
+msgstr ""
+
+#: ../includes/extra/class-data.php:755
+msgctxt "Admin - Theme Options Header"
+msgid "Hamburger Center"
+msgstr ""
+
+#: ../includes/extra/class-data.php:756
+msgctxt "Admin - Theme Options Header"
+msgid "Hamburger Creative"
+msgstr ""
+
+#: ../includes/extra/class-data.php:757
+msgctxt "Admin - Theme Options Header"
+msgid "Header Extras"
+msgstr ""
+
+#: ../includes/extra/class-data.php:758
+msgctxt "Admin - Theme Options Header"
+msgid "Menu"
+msgstr ""
+
+#: ../includes/extra/class-data.php:759
+msgctxt "Admin - Theme Options Header"
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../includes/extra/class-data.php:762
+msgctxt "Admin - Theme Options Footer"
+msgid "Footer Style"
+msgstr ""
+
+#: ../includes/extra/class-data.php:763
+msgctxt "Admin - Theme Options Footer"
+msgid "Column"
+msgstr ""
+
+#: ../includes/extra/class-data.php:764
+msgctxt "Admin - Theme Options Footer"
+msgid "Columns"
+msgstr ""
+
+#: ../includes/extra/class-data.php:765
+msgctxt "Admin - Theme Options Footer"
+msgid "Left"
+msgstr ""
+
+#: ../includes/extra/class-data.php:766
+msgctxt "Admin - Theme Options Footer"
+msgid "Right"
+msgstr ""
+
+#: ../includes/extra/class-data.php:767
+msgctxt "Admin - Theme Options Footer"
+msgid "Center"
+msgstr ""
+
+#: ../includes/extra/class-data.php:768
+msgctxt "Admin - Theme Options Footer"
+msgid "Copyright Style"
+msgstr ""
+
+#: ../includes/extra/class-data.php:771
+msgctxt "Admin - Theme Options Blog"
+msgid "Blog Page (Archive)"
+msgstr ""
+
+#: ../includes/extra/class-data.php:772
+msgctxt "Admin - Theme Options Blog"
+msgid "Blog Classic"
+msgstr ""
+
+#: ../includes/extra/class-data.php:773
+msgctxt "Admin - Theme Options Blog"
+msgid "Blog Grid"
+msgstr ""
+
+#: ../includes/extra/class-data.php:774
+msgctxt "Admin - Theme Options Blog"
+msgid "Blog Horizontal"
+msgstr ""
+
+#: ../includes/extra/class-data.php:775
+msgctxt "Admin - Theme Options Blog"
+msgid "Blog Masonry"
+msgstr ""
+
+#: ../includes/extra/class-data.php:776
+msgctxt "Admin - Theme Options Blog"
+msgid "Blog Post"
+msgstr ""
+
+#: ../includes/extra/class-data.php:777
+msgctxt "Admin - Theme Options Blog"
+msgid "Blog Post Typography"
+msgstr ""
+
+#: ../includes/extra/class-data.php:780
+msgctxt "Admin - Theme Options Porfolio"
+msgid "Porfolio Page (Archive)"
+msgstr ""
+
+#: ../includes/extra/class-data.php:781
+msgctxt "Admin - Theme Options Porfolio"
+msgid "Porfolio Post (Single)"
+msgstr ""
+
+#: ../includes/extra/class-data.php:782
+msgctxt "Admin - Theme Options Porfolio"
+msgid "Grid"
+msgstr ""
+
+#: ../includes/extra/class-data.php:783
+msgctxt "Admin - Theme Options Porfolio"
+msgid "Grid Tiles"
+msgstr ""
+
+#: ../includes/extra/class-data.php:784
+msgctxt "Admin - Theme Options Porfolio"
+msgid "Masonry"
+msgstr ""
+
+#: ../includes/extra/class-data.php:785
+msgctxt "Admin - Theme Options Porfolio"
+msgid "Masonry Tiles"
+msgstr ""
+
+#: ../includes/extra/class-data.php:786
+msgctxt "Admin - Theme Options Porfolio"
+msgid "Justified Tiles"
+msgstr ""
+
+#: ../includes/extra/class-data.php:789
+msgctxt "Admin - Theme Options WooCommerce"
+msgid "Shop Page (Archive)"
+msgstr ""
+
+#: ../includes/extra/class-data.php:790
+msgctxt "Admin - Theme Options WooCommerce"
+msgid "Product (Single)"
+msgstr ""
+
+#: ../includes/extra/class-data.php:793
+msgctxt "Admin - Theme Options Performance"
+msgid "Disable Unused Features"
+msgstr ""
+
+#: ../includes/extra/class-data.php:794
+msgctxt "Admin - Theme Options Performance"
+msgid "Disable Theme Features"
+msgstr ""
+
+#: ../includes/extra/class-data.php:795
+msgctxt "Admin - Theme Options Performance"
+msgid "Performance Optimization"
+msgstr ""
+
+#: ../includes/extra/class-data.php:796
+msgctxt "Admin - Theme Options Performance"
+msgid "Preload Resources"
+msgstr ""
+
+#: ../includes/extra/class-data.php:797
+msgctxt "Admin - Theme Options Performance"
+msgid "Remove Preload"
+msgstr ""
+
+#: ../includes/extra/class-data.php:798
+msgctxt "Admin - Theme Options Performance"
+msgid "+ Add Preload"
+msgstr ""
+
+#: ../includes/extra/class-data.php:801
+msgctxt "Admin - Theme Options System"
+msgid "Use this page to control the normal function and features of Theme options panel."
+msgstr ""
+
+#: ../includes/extra/class-data.php:802
+msgctxt "Admin - Theme Options System"
+msgid "Server Status"
+msgstr ""
+
+#: ../includes/extra/class-data.php:803
+msgctxt "Admin - Theme Options System"
+msgid "API Connection"
+msgstr ""
+
+#: ../includes/extra/class-data.php:804
+msgctxt "Admin - Theme Options System"
+msgid "WEBP Support"
+msgstr ""
+
+#: ../includes/extra/class-data.php:805
+msgctxt "Admin - Theme Options System"
+msgid "Home Url"
+msgstr ""
+
+#: ../includes/extra/class-data.php:806
+msgctxt "Admin - Theme Options System"
+msgid "Site Url"
+msgstr ""
+
+#: ../includes/extra/class-data.php:807
+msgctxt "Admin - Theme Options System"
+msgid "WP Version"
+msgstr ""
+
+#: ../includes/extra/class-data.php:808
+msgctxt "Admin - Theme Options System"
+msgid "Multisite"
+msgstr ""
+
+#: ../includes/extra/class-data.php:809
+msgctxt "Admin - Theme Options System"
+msgid "Server Memory"
+msgstr ""
+
+#: ../includes/extra/class-data.php:810
+msgctxt "Admin - Theme Options System"
+msgid "WP Debug"
+msgstr ""
+
+#: ../includes/extra/class-data.php:811
+msgctxt "Admin - Theme Options System"
+msgid "Language"
+msgstr ""
+
+#: ../includes/extra/class-data.php:812
+msgctxt "Admin - Theme Options System"
+msgid "Server Info"
+msgstr ""
+
+#: ../includes/extra/class-data.php:813
+msgctxt "Admin - Theme Options System"
+msgid "PHP Version"
+msgstr ""
+
+#: ../includes/extra/class-data.php:814
+msgctxt "Admin - Theme Options System"
+msgid "Post Max Size"
+msgstr ""
+
+#: ../includes/extra/class-data.php:815
+msgctxt "Admin - Theme Options System"
+msgid "PHP Time Limit"
+msgstr ""
+
+#: ../includes/extra/class-data.php:816
+msgctxt "Admin - Theme Options System"
+msgid "PHP Max Input"
+msgstr ""
+
+#: ../includes/extra/class-data.php:817
+msgctxt "Admin - Theme Options System"
+msgid "MySQL Version"
+msgstr ""
+
+#: ../includes/extra/class-data.php:818
+msgctxt "Admin - Theme Options System"
+msgid "Max Upload"
+msgstr ""
+
+#: ../includes/extra/class-data.php:819
+msgctxt "Admin - Theme Options System"
+msgid "Tools"
+msgstr ""
+
+#: ../includes/extra/class-data.php:820
+msgctxt "Admin - Theme Options System"
+msgid "Export Settings"
+msgstr ""
+
+#: ../includes/extra/class-data.php:821
+msgctxt "Admin - Theme Options System"
+msgid "Download the current configuration in a Json file."
+msgstr ""
+
+#: ../includes/extra/class-data.php:822
+msgctxt "Admin - Theme Options System"
+msgid "Download Json"
+msgstr ""
+
+#: ../includes/extra/class-data.php:823
+msgctxt "Admin - Theme Options System"
+msgid "Import Settings"
+msgstr ""
+
+#: ../includes/extra/class-data.php:824
+msgctxt "Admin - Theme Options System"
+msgid "Import settings by uploading a Json file."
+msgstr ""
+
+#: ../includes/extra/class-data.php:825
+msgctxt "Admin - Theme Options System"
+msgid "API Connection Proxy"
+msgstr ""
+
+#: ../includes/extra/class-data.php:826
+msgctxt "Admin - Theme Options System"
+msgid "Use a proxy to connect to our API server. Click to enable/disable."
+msgstr ""
+
+#: ../includes/extra/class-data.php:828
+msgctxt "Admin - Theme Options System"
+msgid "Install & Activate Child Theme"
+msgstr ""
+
+#: ../includes/extra/class-data.php:829
+msgctxt "Admin - Theme Options System"
+msgid "Automatically install child theme."
+msgstr ""
+
+#: ../includes/extra/class-data.php:830
+msgctxt "Admin - Theme Options System"
+msgid "Import Json"
+msgstr ""
+
+#: ../includes/extra/class-data.php:831
+msgctxt "Admin - Theme Options System"
+msgid "Refresh UiCore Data"
+msgstr ""
+
+#: ../includes/extra/class-data.php:832
+msgctxt "Admin - Theme Options System"
+msgid "Refetch all data from UiCore API."
+msgstr ""
+
+#: ../includes/extra/class-data.php:833
+msgctxt "Admin - Theme Options System"
+msgid "Refreshing"
+msgstr ""
+
+#: ../includes/extra/class-data.php:834
+msgctxt "Admin - Theme Options System"
+msgid "Refresh Data"
+msgstr ""
+
+#: ../includes/extra/class-data.php:835
+msgctxt "Admin - Theme Options System"
+msgid "Recomended Value"
+msgstr ""
+
+#: ../includes/extra/class-data.php:838
+msgctxt "Admin - Theme Options Updates"
+msgid "Updates"
+msgstr ""
+
+#: ../includes/extra/class-data.php:839
+msgctxt "Admin - Theme Options Updates"
+msgid "Congrats! You're using the latest version."
+msgstr ""
+
+#: ../includes/extra/class-data.php:840
+msgctxt "Admin - Theme Options Updates"
+msgid "Check for Updates"
+msgstr ""
+
+#: ../includes/extra/class-data.php:841
+msgctxt "Admin - Theme Options Updates"
+msgid "Looking for updates"
+msgstr ""
+
+#: ../includes/extra/class-data.php:842
+msgctxt "Admin - Theme Options Updates"
+msgid "Rollback to Previous Version"
+msgstr ""
+
+#: ../includes/extra/class-data.php:843
+msgctxt "Admin - Theme Options Updates"
+msgid "Changelog"
+msgstr ""
+
+#: ../includes/extra/class-data.php:846
+msgctxt "Admin - Theme Options Plugins"
+msgid "Plugins"
+msgstr ""
+
+#: ../includes/extra/class-data.php:847
+msgctxt "Admin - Theme Options Plugins"
+msgid "The following plugins were thoroughly tested with our theme."
+msgstr ""
+
+#: ../includes/extra/class-data.php:848
+msgctxt "Admin - Theme Options Plugins"
+msgid "RECOMMENDED PLUGINS"
+msgstr ""
+
+#: ../includes/extra/class-data.php:849
+msgctxt "Admin - Theme Options Plugins"
+msgid "Requires Free Version!"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1385, ../includes/extra/class-settings.php:1902, ../includes/extra/class-settings.php:2692, ../includes/extra/class-settings.php:3103
+msgctxt "Admin - Theme Options"
+msgid "Layout"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1386
+msgctxt "Admin - Theme Options"
+msgid "Set the website layout."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1387, ../includes/extra/class-settings.php:1397, ../includes/extra/class-settings.php:1411, ../includes/extra/class-settings.php:1425, ../includes/extra/class-settings.php:1436, ../includes/extra/class-settings.php:1446, ../includes/extra/class-settings.php:1457, ../includes/extra/class-settings.php:1468, ../includes/extra/class-settings.php:1481, ../includes/extra/class-settings.php:1491, ../includes/extra/class-settings.php:1501, ../includes/extra/class-settings.php:1515, ../includes/extra/class-settings.php:1526, ../includes/extra/class-settings.php:1540, ../includes/extra/class-settings.php:1551, ../includes/extra/class-settings.php:1565
+msgctxt "Admin - Theme Options"
+msgid "General"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1388
+msgctxt "Admin - Theme Options Search"
+msgid "site layout"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1396
+msgctxt "Admin - Theme Options"
+msgid "Boxed Container Width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1398
+msgctxt "Admin - Theme Options"
+msgid "Set the boxed outer container width."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1399
+msgctxt "Admin - Theme Options Search"
+msgid "site boxed width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1410
+msgctxt "Admin - Theme Options"
+msgid "Boxed Background Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1412
+msgctxt "Admin - Theme Options"
+msgid "Set the boxed inner container background color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1413
+msgctxt "Admin - Theme Options Search"
+msgid "site background color boxed"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1424
+msgctxt "Admin - Theme Options"
+msgid "Body Background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1426
+msgctxt "Admin - Theme Options"
+msgid "Set the <body> background."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1427
+msgctxt "Admin - Theme Options Search"
+msgid "body background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1435
+msgctxt "Admin - Theme Options"
+msgid "Container Width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1437
+msgctxt "Admin - Theme Options"
+msgid "Set the container maximum width."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1438
+msgctxt "Admin - Theme Options Search"
+msgid "container width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1445
+msgctxt "Admin - Theme Options"
+msgid "RTL"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1447
+msgctxt "Admin - Theme Options"
+msgid "Enable right to left writing for arabic languages."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1448
+msgctxt "Admin - Theme Options Search"
+msgid "rtl"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1456, ../includes/extra/class-settings.php:4470
+msgctxt "Admin - Theme Options"
+msgid "Back to Top"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1458
+msgctxt "Admin - Theme Options"
+msgid "Add a back to top button on bottom right corner."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1459
+msgctxt "Admin - Theme Options Search"
+msgid "back top scroll"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1467
+msgctxt "Admin - Theme Options"
+msgid "Back to Top: Show on Mobile"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1469
+msgctxt "Admin - Theme Options"
+msgid "Show the back to top button on mobile devices."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1470
+msgctxt "Admin - Theme Options Search"
+msgid "back top scroll mobile"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1480
+msgctxt "Admin - Theme Options"
+msgid "404 Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1482
+msgctxt "Admin - Theme Options"
+msgid "Select a custom 404 page to overwrite the default one."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1483
+msgctxt "Admin - Theme Options Search"
+msgid "404 page error"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1490
+msgctxt "Admin - Theme Options"
+msgid "Maintenance Mode"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1492
+msgctxt "Admin - Theme Options"
+msgid "Enable maintenance mode sitewide."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1493
+msgctxt "Admin - Theme Options Search"
+msgid "maintenance mode"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1500
+msgctxt "Admin - Theme Options"
+msgid "Maintenance Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1502
+msgctxt "Admin - Theme Options"
+msgid "Select a custom maintenance page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1503
+msgctxt "Admin - Theme Options Search"
+msgid "maintenance mode page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1514, ../includes/extra/class-settings.php:1525
+msgctxt "Admin - Theme Options"
+msgid "Browser Theme Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1516
+msgctxt "Admin - Theme Options"
+msgid "Set the browser toolbar color. Available on Chrome 39+ for Android."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1517, ../includes/extra/class-settings.php:1528
+msgctxt "Admin - Theme Options Search"
+msgid "browser theme color toolbar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1527
+msgctxt "Admin - Theme Options"
+msgid "Set the toolbar color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1539
+msgctxt "Admin - Theme Options"
+msgid "Site Border (Passepartout)"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1541
+msgctxt "Admin - Theme Options"
+msgid "Set a colored border around the website."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1542
+msgctxt "Admin - Theme Options Search"
+msgid "site border"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1550
+msgctxt "Admin - Theme Options"
+msgid "Site Border Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1552
+msgctxt "Admin - Theme Options"
+msgid "Set the site border color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1553
+msgctxt "Admin - Theme Options Search"
+msgid "site border color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1564
+msgctxt "Admin - Theme Options"
+msgid "Site Border Width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1566
+msgctxt "Admin - Theme Options"
+msgid "Set the site border width."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1567
+msgctxt "Admin - Theme Options Search"
+msgid "site border width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1577
+msgctxt "Admin - Theme Options"
+msgid "Primary Logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1578, ../includes/extra/class-settings.php:1588, ../includes/extra/class-settings.php:1599, ../includes/extra/class-settings.php:1610, ../includes/extra/class-settings.php:1620
+msgctxt "Admin - Theme Options"
+msgid "Branding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1579
+msgctxt "Admin - Theme Options"
+msgid "Set the default logo."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1580
+msgctxt "Admin - Theme Options Search"
+msgid "primary logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1587
+msgctxt "Admin - Theme Options"
+msgid "Secondary Logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1589
+msgctxt "Admin - Theme Options"
+msgid "Set logo for transparent headers."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1590
+msgctxt "Admin - Theme Options Search"
+msgid "secondary logo transparent"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1598
+msgctxt "Admin - Theme Options"
+msgid "Mobile Logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1600
+msgctxt "Admin - Theme Options"
+msgid "Set logo for mobile devices. If left blank, Primary Logo will be used."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1601
+msgctxt "Admin - Theme Options Search"
+msgid "mobile logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1609
+msgctxt "Admin - Theme Options"
+msgid "Secondary Mobile Logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1611
+msgctxt "Admin - Theme Options"
+msgid "Set logo for mobile devices on transparent headers. If left blank, Secondary Logo will be used."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1612
+msgctxt "Admin - Theme Options Search"
+msgid "secondary mobile logo transparent"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1619
+msgctxt "Admin - Theme Options"
+msgid "Favicon"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1621
+msgctxt "Admin - Theme Options"
+msgid "Set the icon for browser tab and home screen. Recommended size: 196px x 196 px."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1622
+msgctxt "Admin - Theme Options Search"
+msgid "favicon"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1630, ../includes/extra/class-settings.php:1640, ../includes/extra/class-settings.php:3568, ../includes/extra/class-settings.php:3578, ../includes/extra/class-settings.php:3588, ../includes/extra/class-settings.php:3598, ../includes/extra/class-settings.php:3608, ../includes/extra/class-settings.php:3618, ../includes/extra/class-settings.php:3628, ../includes/extra/class-settings.php:3638, ../includes/extra/class-settings.php:3648, ../includes/extra/class-settings.php:4889
+msgctxt "Admin - Theme Options"
+msgid "Design System"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1631
+msgctxt "Admin - Theme Options"
+msgid "Your main brand color. Used by most elements throughout the website."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1632
+msgctxt "Admin - Theme Options Search"
+msgid "main primary color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1641
+msgctxt "Admin - Theme Options"
+msgid "Your secondary brand color. Used mainly as hover color or by secondary elements."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1642
+msgctxt "Admin - Theme Options Search"
+msgid "hover secondary color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1650, ../includes/extra/class-settings.php:3027
+msgctxt "Admin - Theme Options"
+msgid "H1"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1651, ../includes/extra/class-settings.php:1662, ../includes/extra/class-settings.php:1673, ../includes/extra/class-settings.php:1684, ../includes/extra/class-settings.php:1695, ../includes/extra/class-settings.php:1706, ../includes/extra/class-settings.php:1717, ../includes/extra/class-settings.php:3672
+msgctxt "Admin - Theme Options"
+msgid "Typography"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1652
+msgctxt "Admin - Theme Options"
+msgid "Set Heading 1 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1653, ../includes/extra/class-settings.php:3030
+msgctxt "Admin - Theme Options Search"
+msgid "h1 H1"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1661, ../includes/extra/class-settings.php:3038
+msgctxt "Admin - Theme Options"
+msgid "H2"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1663
+msgctxt "Admin - Theme Options"
+msgid "Set Heading 2 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1664, ../includes/extra/class-settings.php:3041
+msgctxt "Admin - Theme Options Search"
+msgid "h2 H2"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1672, ../includes/extra/class-settings.php:3049
+msgctxt "Admin - Theme Options"
+msgid "H3"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1674
+msgctxt "Admin - Theme Options"
+msgid "Set Heading 3 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1675, ../includes/extra/class-settings.php:3052
+msgctxt "Admin - Theme Options Search"
+msgid "h3 H3"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1683, ../includes/extra/class-settings.php:3060
+msgctxt "Admin - Theme Options"
+msgid "H4"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1685
+msgctxt "Admin - Theme Options"
+msgid "Set Heading 4 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1686, ../includes/extra/class-settings.php:3062
+msgctxt "Admin - Theme Options Search"
+msgid "h4 H4"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1694, ../includes/extra/class-settings.php:3070
+msgctxt "Admin - Theme Options"
+msgid "H5"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1696
+msgctxt "Admin - Theme Options"
+msgid "Set Heading 5 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1697, ../includes/extra/class-settings.php:3073
+msgctxt "Admin - Theme Options Search"
+msgid "h5 H5"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1705, ../includes/extra/class-settings.php:3081
+msgctxt "Admin - Theme Options"
+msgid "H6"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1707
+msgctxt "Admin - Theme Options"
+msgid "Set Heading 6 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1708, ../includes/extra/class-settings.php:3084
+msgctxt "Admin - Theme Options Search"
+msgid "h6 H6"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1716, ../includes/extra/class-settings.php:3092
+msgctxt "Admin - Theme Options"
+msgid "Body"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1718
+msgctxt "Admin - Theme Options"
+msgid "Set <body> and <p> options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1719, ../includes/extra/class-settings.php:3095
+msgctxt "Admin - Theme Options Search"
+msgid "body paragraph"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1726
+msgctxt "Admin - Theme Options"
+msgid "Enable Header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1727
+msgctxt "Admin - Theme Options"
+msgid "Enable / disable the header sitewide."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1728, ../includes/extra/class-settings.php:1739, ../includes/extra/class-settings.php:1750, ../includes/extra/class-settings.php:1761, ../includes/extra/class-settings.php:1772, ../includes/extra/class-settings.php:1786, ../includes/extra/class-settings.php:1800, ../includes/extra/class-settings.php:1811, ../includes/extra/class-settings.php:1984, ../includes/extra/class-settings.php:1995, ../includes/extra/class-settings.php:2009, ../includes/extra/class-settings.php:2023, ../includes/extra/class-settings.php:2037, ../includes/extra/class-settings.php:2048, ../includes/extra/class-settings.php:2059, ../includes/extra/class-settings.php:2073, ../includes/extra/class-settings.php:2086, ../includes/extra/class-settings.php:2097, ../includes/extra/class-settings.php:2111, ../includes/extra/class-settings.php:2124, ../includes/extra/class-settings.php:2137, ../includes/extra/class-settings.php:2151, ../includes/extra/class-settings.php:2164, ../includes/extra/class-settings.php:2177, ../includes/extra/class-settings.php:2187, ../includes/extra/class-settings.php:2198, ../includes/extra/class-settings.php:2209, ../includes/extra/class-settings.php:2220, ../includes/extra/class-settings.php:2234, ../includes/extra/class-settings.php:2245, ../includes/extra/class-settings.php:2256, ../includes/extra/class-settings.php:2267, ../includes/extra/class-settings.php:2278, ../includes/extra/class-settings.php:2289, ../includes/extra/class-settings.php:2300, ../includes/extra/class-settings.php:2311, ../includes/extra/class-settings.php:2321, ../includes/extra/class-settings.php:3486, ../includes/extra/class-settings.php:4124, ../includes/extra/class-settings.php:4135, ../includes/extra/class-settings.php:4146, ../includes/extra/class-settings.php:4157, ../includes/extra/class-settings.php:4168, ../includes/extra/class-settings.php:4179, ../includes/extra/class-settings.php:4280, ../includes/extra/class-settings.php:4725, ../includes/extra/class-settings.php:4739, ../includes/extra/class-settings.php:4753, ../includes/extra/class-settings.php:4764, ../includes/extra/class-settings.php:4778, ../includes/extra/class-settings.php:4792
+msgctxt "Admin - Theme Options"
+msgid "Header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1729
+msgctxt "Admin - Theme Options Search"
+msgid "enable header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1737
+msgctxt "Admin - Theme Options"
+msgid "Header: Layout"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1738
+msgctxt "Admin - Theme Options"
+msgid "Set the base layout for header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1740
+msgctxt "Admin - Theme Options Search"
+msgid "header layout"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1748
+msgctxt "Admin - Theme Options"
+msgid "Header Background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1749
+msgctxt "Admin - Theme Options"
+msgid "Set the header background."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1751
+msgctxt "Admin - Theme Options Search"
+msgid "header background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1759
+msgctxt "Admin - Theme Options"
+msgid "Header Border"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1760
+msgctxt "Admin - Theme Options"
+msgid "Set a 1px border bottom to header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1762
+msgctxt "Admin - Theme Options Search"
+msgid "header border"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1770
+msgctxt "Admin - Theme Options"
+msgid "Header Border Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1771
+msgctxt "Admin - Theme Options"
+msgid "Set the header border color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1773
+msgctxt "Admin - Theme Options Search"
+msgid "header border color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1784
+msgctxt "Admin - Theme Options"
+msgid "Header Padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1785
+msgctxt "Admin - Theme Options"
+msgid "Set top/bottom spacing for header bar."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1787
+msgctxt "Admin - Theme Options Search"
+msgid "header padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1798
+msgctxt "Admin - Theme Options"
+msgid "Logo Height"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1799
+msgctxt "Admin - Theme Options"
+msgid "Set the header logo height."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1801
+msgctxt "Admin - Theme Options Search"
+msgid "logo height"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1809
+msgctxt "Admin - Theme Options"
+msgid "Content Alignment"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1810
+msgctxt "Admin - Theme Options"
+msgid "Set the inner content alignment for Left Header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1812
+msgctxt "Admin - Theme Options Search"
+msgid "header align"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1822
+msgctxt "Admin - Theme Options"
+msgid "Enable Top Banner"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1823
+msgctxt "Admin - Theme Options"
+msgid "Enable a top bar above the header. Hides on scroll automatically."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1824, ../includes/extra/class-settings.php:1835, ../includes/extra/class-settings.php:1849, ../includes/extra/class-settings.php:1863, ../includes/extra/class-settings.php:1877, ../includes/extra/class-settings.php:1891, ../includes/extra/class-settings.php:1904, ../includes/extra/class-settings.php:1917, ../includes/extra/class-settings.php:1931, ../includes/extra/class-settings.php:1943, ../includes/extra/class-settings.php:1956, ../includes/extra/class-settings.php:1970, ../includes/extra/class-settings.php:3750, ../includes/extra/class-settings.php:3761, ../includes/extra/class-settings.php:3772, ../includes/extra/class-settings.php:4270, ../includes/extra/class-settings.php:4371
+msgctxt "Admin - Theme Options"
+msgid "Top Banner"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1825, ../includes/extra/class-settings.php:4273
+msgctxt "Admin - Theme Options Search"
+msgid "top banner"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1833, ../includes/extra/class-settings.php:3683
+msgctxt "Admin - Theme Options"
+msgid "Background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1834
+msgctxt "Admin - Theme Options"
+msgid "Set the background for top banner."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1836
+msgctxt "Admin - Theme Options Search"
+msgid "top banner background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1847
+msgctxt "Admin - Theme Options"
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1848
+msgctxt "Admin - Theme Options"
+msgid "Set the text color for top banner."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1850
+msgctxt "Admin - Theme Options Search"
+msgid "top banner text color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1861
+msgctxt "Admin - Theme Options"
+msgid "Text Size"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1862
+msgctxt "Admin - Theme Options"
+msgid "Set the text size for top banner."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1864
+msgctxt "Admin - Theme Options Search"
+msgid "top banner text size"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1875
+msgctxt "Admin - Theme Options"
+msgid "Link Colors"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1876
+msgctxt "Admin - Theme Options"
+msgid "Set the link colors for top banner."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1878
+msgctxt "Admin - Theme Options Search"
+msgid "top banner link color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1889
+msgctxt "Admin - Theme Options"
+msgid "Top Bar Padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1890
+msgctxt "Admin - Theme Options"
+msgid "Set the top/bottom spacing for top banner."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1892
+msgctxt "Admin - Theme Options Search"
+msgid "top banner padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1903
+msgctxt "Admin - Theme Options"
+msgid "Set the top banner column layout."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1905
+msgctxt "Admin - Theme Options Search"
+msgid "top banner layout"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1915
+msgctxt "Admin - Theme Options"
+msgid "First Column Content Type"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1916
+msgctxt "Admin - Theme Options"
+msgid "Choose the content type for the first column."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1918, ../includes/extra/class-settings.php:1944
+msgctxt "Admin - Theme Options Search"
+msgid "top banner first column content"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1929
+msgctxt "Admin - Theme Options"
+msgid "First Column Alignment"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1930
+msgctxt "Admin - Theme Options"
+msgid "Set the alignment for the first column."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1932
+msgctxt "Admin - Theme Options Search"
+msgid "top banner first column alignment"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1942
+msgctxt "Admin - Theme Options"
+msgid "First Column Custom Content"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1954
+msgctxt "Admin - Theme Options"
+msgid "Second Column Content Type"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1955
+msgctxt "Admin - Theme Options"
+msgid "Choose the content type for the second column."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1957
+msgctxt "Admin - Theme Options Search"
+msgid "top bar second column content"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1968
+msgctxt "Admin - Theme Options"
+msgid "Second Column Alignment"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1969
+msgctxt "Admin - Theme Options"
+msgid "Set the alignment for the second column."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1971
+msgctxt "Admin - Theme Options Search"
+msgid "top bar second column alignment"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1982
+msgctxt "Admin - Theme Options"
+msgid "Transparent Header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1983
+msgctxt "Admin - Theme Options"
+msgid "Set header to transparent background before scroll."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1985
+msgctxt "Admin - Theme Options Search"
+msgid "transparent header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1993
+msgctxt "Admin - Theme Options"
+msgid "Transparent Header: Menu Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1994
+msgctxt "Admin - Theme Options"
+msgid "Set the menu color for transparent header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:1996
+msgctxt "Admin - Theme Options Search"
+msgid "transparent header menu color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2007
+msgctxt "Admin - Theme Options"
+msgid "Transparent Header: Border"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2008
+msgctxt "Admin - Theme Options"
+msgid "Add a 1px border bottom to transparent header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2010
+msgctxt "Admin - Theme Options Search"
+msgid "transparent header border"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2021
+msgctxt "Admin - Theme Options"
+msgid "Transparent Header: Border Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2022
+msgctxt "Admin - Theme Options"
+msgid "Set the border color for transparent header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2024
+msgctxt "Admin - Theme Options Search"
+msgid "transparent header border color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2035
+msgctxt "Admin - Theme Options"
+msgid "Wide Header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2036
+msgctxt "Admin - Theme Options"
+msgid "Stretches the header container to full screen width."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2038
+msgctxt "Admin - Theme Options Search"
+msgid "wide header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2046
+msgctxt "Admin - Theme Options"
+msgid "Sticky Header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2047
+msgctxt "Admin - Theme Options"
+msgid "Set the header to fixed on top after scroll."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2049
+msgctxt "Admin - Theme Options Search"
+msgid "sticky header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2057
+msgctxt "Admin - Theme Options"
+msgid "Change Height On Scroll"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2058
+msgctxt "Admin - Theme Options"
+msgid "Change header padding after scroll."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2060
+msgctxt "Admin - Theme Options Search"
+msgid "change height"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2071
+msgctxt "Admin - Theme Options"
+msgid "Padding Before Scroll"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2072
+msgctxt "Admin - Theme Options"
+msgid "Set the left and right padding for menu items."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2074
+msgctxt "Admin - Theme Options Search"
+msgid "padding before scroll"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2084
+msgctxt "Admin - Theme Options"
+msgid "Call to Action Button"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2085
+msgctxt "Admin - Theme Options"
+msgid "Add a call to action button on the right side of the header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2087
+msgctxt "Admin - Theme Options Search"
+msgid "call to action button"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2095
+msgctxt "Admin - Theme Options"
+msgid "Invert Colors on transparent header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2096, ../includes/extra/class-settings.php:2110
+msgctxt "Admin - Theme Options"
+msgid "Set the call to action button style."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2098
+msgctxt "Admin - Theme Options Search"
+msgid "call to action button style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2109, ../includes/extra/class-settings.php:3727
+msgctxt "Admin - Theme Options"
+msgid "Border Radius"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2112
+msgctxt "Admin - Theme Options Search"
+msgid "call to action button border radius"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2122
+msgctxt "Admin - Theme Options"
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2123
+msgctxt "Admin - Theme Options"
+msgid "Set the call to action button text."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2125
+msgctxt "Admin - Theme Options Search"
+msgid "call to action button text"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2135
+msgctxt "Admin - Theme Options"
+msgid "Button Link"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2136, ../includes/extra/class-settings.php:2150
+msgctxt "Admin - Theme Options"
+msgid "Set the call to action button link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2138
+msgctxt "Admin - Theme Options Search"
+msgid "call to action button link"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2149
+msgctxt "Admin - Theme Options"
+msgid "Link Target"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2152
+msgctxt "Admin - Theme Options Search"
+msgid "call to action button link target"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2162
+msgctxt "Admin - Theme Options"
+msgid "Search"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2163
+msgctxt "Admin - Theme Options"
+msgid "Add a search icon on the right side of the header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2165
+msgctxt "Admin - Theme Options Search"
+msgid "search"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2175
+msgctxt "Admin - Theme Options"
+msgid "Social Icons"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2176
+msgctxt "Admin - Theme Options"
+msgid "Add social icons on the right side of the header (classic header) or bottom (left header)."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2178
+msgctxt "Admin - Theme Options Search"
+msgid "social icons"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2185
+msgctxt "Admin - Theme Options"
+msgid "Enable Widget Area (Desktop Screens Only)"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2186
+msgctxt "Admin - Theme Options"
+msgid "Add a custom widget area on the right side of the menu."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2188
+msgctxt "Admin - Theme Options Search"
+msgid "widget area desktop"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2196
+msgctxt "Admin - Theme Options"
+msgid "Menu Typography"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2197
+msgctxt "Admin - Theme Options"
+msgid "Set menu text options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2199
+msgctxt "Admin - Theme Options Search"
+msgid "menu typography"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2207
+msgctxt "Admin - Theme Options"
+msgid "Menu Item Spacing"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2208
+msgctxt "Admin - Theme Options"
+msgid "Set the left/right padding for menu items."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2210
+msgctxt "Admin - Theme Options Search"
+msgid "menu item spacing"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2218
+msgctxt "Admin - Theme Options"
+msgid "Menu Alignment"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2219
+msgctxt "Admin - Theme Options"
+msgid "Set the menu alignment on header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2221
+msgctxt "Admin - Theme Options Search"
+msgid "menu alignment"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2232
+msgctxt "Admin - Theme Options"
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2233
+msgctxt "Admin - Theme Options"
+msgid "Set the dropdown menu background color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2235
+msgctxt "Admin - Theme Options Search"
+msgid "dropdown background color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2243
+msgctxt "Admin - Theme Options"
+msgid "Dropdown Menu Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2244
+msgctxt "Admin - Theme Options"
+msgid "Set the dropdown menu text colors."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2246
+msgctxt "Admin - Theme Options Search"
+msgid "dropdown menu color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2254
+msgctxt "Admin - Theme Options"
+msgid "Mobile Logo Height"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2255
+msgctxt "Admin - Theme Options"
+msgid "Set the logo height on mobile header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2257
+msgctxt "Admin - Theme Options Search"
+msgid "mobile logo height"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2265
+msgctxt "Admin - Theme Options"
+msgid "Mobile Menu Background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2266
+msgctxt "Admin - Theme Options"
+msgid "Set the mobile menu background."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2268
+msgctxt "Admin - Theme Options Search"
+msgid "mobile menu background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2276
+msgctxt "Admin - Theme Options"
+msgid "Use Secondary Logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2277
+msgctxt "Admin - Theme Options"
+msgid "Use secondary mobile logo on menu dropdown. If Secondary Mobile Logo is not set, Secondary Logo will be used instead."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2279
+msgctxt "Admin - Theme Options Search"
+msgid "mobile secondary logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2287
+msgctxt "Admin - Theme Options"
+msgid "Mobile Menu Animation"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2288
+msgctxt "Admin - Theme Options"
+msgid "Set the entrance animation for mobile popover menu."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2290
+msgctxt "Admin - Theme Options Search"
+msgid "mobile menu animation"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2298
+msgctxt "Admin - Theme Options"
+msgid "Mobile Menu Typography"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2299
+msgctxt "Admin - Theme Options"
+msgid "Set mobile menu text options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2301
+msgctxt "Admin - Theme Options Search"
+msgid "mobile menu typography"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2309
+msgctxt "Admin - Theme Options"
+msgid "Mobile Menu Alignment"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2310
+msgctxt "Admin - Theme Options"
+msgid "Set mobile menu text alignment."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2312
+msgctxt "Admin - Theme Options Search"
+msgid "mobile menu alignment"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2319
+msgctxt "Admin - Theme Options"
+msgid "Enable Widget Area (Mobile Screens Only)"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2320
+msgctxt "Admin - Theme Options"
+msgid "Add a custom widget area on the bottom on mobile menu popover."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2322
+msgctxt "Admin - Theme Options Search"
+msgid "mobile widget area"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2330
+msgctxt "Admin - Theme Options"
+msgid "Footer: Layout"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2331
+msgctxt "Admin - Theme Options"
+msgid "Set the footer column layout."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2332, ../includes/extra/class-settings.php:2343, ../includes/extra/class-settings.php:2354, ../includes/extra/class-settings.php:2365, ../includes/extra/class-settings.php:2376, ../includes/extra/class-settings.php:2387, ../includes/extra/class-settings.php:2398, ../includes/extra/class-settings.php:2408, ../includes/extra/class-settings.php:2419, ../includes/extra/class-settings.php:2433, ../includes/extra/class-settings.php:2447, ../includes/extra/class-settings.php:2461, ../includes/extra/class-settings.php:2475, ../includes/extra/class-settings.php:2489, ../includes/extra/class-settings.php:2503, ../includes/extra/class-settings.php:2517, ../includes/extra/class-settings.php:2530, ../includes/extra/class-settings.php:4290, ../includes/extra/class-settings.php:4426
+msgctxt "Admin - Theme Options"
+msgid "Footer"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2333
+msgctxt "Admin - Theme Options Search"
+msgid "layout"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2341
+msgctxt "Admin - Theme Options"
+msgid "Footer Background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2342
+msgctxt "Admin - Theme Options"
+msgid "Set the footer background."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2344
+msgctxt "Admin - Theme Options Search"
+msgid "footer background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2352
+msgctxt "Admin - Theme Options"
+msgid "Footer Vertical Padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2353
+msgctxt "Admin - Theme Options"
+msgid "Set the footer top/bottom spacing."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2355
+msgctxt "Admin - Theme Options Search"
+msgid "footer vertical padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2363
+msgctxt "Admin - Theme Options"
+msgid "Footer Title Style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2364
+msgctxt "Admin - Theme Options"
+msgid "Set the text options for all titles in footer."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2366
+msgctxt "Admin - Theme Options Search"
+msgid "footer title"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2374
+msgctxt "Admin - Theme Options"
+msgid "Footer Text Style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2375
+msgctxt "Admin - Theme Options"
+msgid "Set the text options for all footer text."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2377
+msgctxt "Admin - Theme Options Search"
+msgid "footer text"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2385
+msgctxt "Admin - Theme Options"
+msgid "Footer Link Colors"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2386
+msgctxt "Admin - Theme Options"
+msgid "Set the main and hover colors for footer links."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2388
+msgctxt "Admin - Theme Options Search"
+msgid "footer link color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2396
+msgctxt "Admin - Theme Options"
+msgid "Wide Footer"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2397
+msgctxt "Admin - Theme Options"
+msgid "Stretch the footer to full screen width."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2399
+msgctxt "Admin - Theme Options Search"
+msgid "wide footer"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2406
+msgctxt "Admin - Theme Options"
+msgid "Enable Copyright"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2407
+msgctxt "Admin - Theme Options"
+msgid "Enable copyright bar below the footer."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2409
+msgctxt "Admin - Theme Options Search"
+msgid "enable copyright"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2417
+msgctxt "Admin - Theme Options"
+msgid "Copyright Background Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2418
+msgctxt "Admin - Theme Options"
+msgid "Set the background color for copyright bar."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2420
+msgctxt "Admin - Theme Options Search"
+msgid "copyright background color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2431
+msgctxt "Admin - Theme Options"
+msgid "Border"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2432
+msgctxt "Admin - Theme Options"
+msgid "Set a border between footer and copyright bar."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2434
+msgctxt "Admin - Theme Options Search"
+msgid "copyright border"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2445, ../includes/extra/class-settings.php:3716
+msgctxt "Admin - Theme Options"
+msgid "Border Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2446
+msgctxt "Admin - Theme Options"
+msgid "Set the copyright bar border color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2448
+msgctxt "Admin - Theme Options Search"
+msgid "copyright border color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2459
+msgctxt "Admin - Theme Options"
+msgid "Wide Border"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2460
+msgctxt "Admin - Theme Options"
+msgid "Stretch the copyright border to full screen width."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2462
+msgctxt "Admin - Theme Options Search"
+msgid "copyright border wide"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2473
+msgctxt "Admin - Theme Options"
+msgid "Copyright Vertical Padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2474
+msgctxt "Admin - Theme Options"
+msgid "Set top/bottom spacing for copyright bar."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2476
+msgctxt "Admin - Theme Options Search"
+msgid "copyright vertical padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2487
+msgctxt "Admin - Theme Options"
+msgid "Copyright Text Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2488
+msgctxt "Admin - Theme Options"
+msgid "Set the copyright text color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2490
+msgctxt "Admin - Theme Options Search"
+msgid "copyright text color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2501
+msgctxt "Admin - Theme Options"
+msgid "Copyright Font Size"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2502
+msgctxt "Admin - Theme Options"
+msgid "Set the copyright font size."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2504
+msgctxt "Admin - Theme Options Search"
+msgid "copyright font size"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2515
+msgctxt "Admin - Theme Options"
+msgid "Copyright Link Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2516
+msgctxt "Admin - Theme Options"
+msgid "Set the main and hover colors for copyright bar links."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2518
+msgctxt "Admin - Theme Options Search"
+msgid "copyright link color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2528
+msgctxt "Admin - Theme Options"
+msgid "Copyright Social Icons"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2529
+msgctxt "Admin - Theme Options"
+msgid "Add social icons on the copyright bar."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2531
+msgctxt "Admin - Theme Options Search"
+msgid "copyright social icons"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2541
+msgctxt "Admin - Theme Options"
+msgid "Enable Page Title"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2542
+msgctxt "Admin - Theme Options"
+msgid "Enable / disable page title sitewide."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2543, ../includes/extra/class-settings.php:2554, ../includes/extra/class-settings.php:2568, ../includes/extra/class-settings.php:2582, ../includes/extra/class-settings.php:2596, ../includes/extra/class-settings.php:2610, ../includes/extra/class-settings.php:2624, ../includes/extra/class-settings.php:2638, ../includes/extra/class-settings.php:2652, ../includes/extra/class-settings.php:2666, ../includes/extra/class-settings.php:2680, ../includes/extra/class-settings.php:4404
+msgctxt "Admin - Theme Options"
+msgid "Page Title"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2544
+msgctxt "Admin - Theme Options Search"
+msgid "enable page title"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2552
+msgctxt "Admin - Theme Options"
+msgid "Page Title Background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2553
+msgctxt "Admin - Theme Options"
+msgid "Set the page title background."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2555
+msgctxt "Admin - Theme Options Search"
+msgid "page title background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2566
+msgctxt "Admin - Theme Options"
+msgid "Page Title Background Overlay"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2567
+msgctxt "Admin - Theme Options"
+msgid "Set the overlay layer for page title background."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2569
+msgctxt "Admin - Theme Options Search"
+msgid "page title background overlay"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2580
+msgctxt "Admin - Theme Options"
+msgid "Featured Image as Background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2581
+msgctxt "Admin - Theme Options"
+msgid "Use page / post featured image as background. If no featured image is set, the above background will be used instead."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2583, ../includes/extra/class-settings.php:2905
+msgctxt "Admin - Theme Options Search"
+msgid "featured image"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2594, ../includes/extra/class-settings.php:2838, ../includes/extra/class-settings.php:3183
+msgctxt "Admin - Theme Options"
+msgid "Vertical Padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2595
+msgctxt "Admin - Theme Options"
+msgid "Set the top/bottom spacing for page title."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2597
+msgctxt "Admin - Theme Options Search"
+msgid "page title vertical padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2608
+msgctxt "Admin - Theme Options"
+msgid "Title Tag"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2609
+msgctxt "Admin - Theme Options"
+msgid "Select the heading tag for page title. Recommended tags: H1 or H2."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2611
+msgctxt "Admin - Theme Options Search"
+msgid "page title tag"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2622
+msgctxt "Admin - Theme Options"
+msgid "Title Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2623
+msgctxt "Admin - Theme Options"
+msgid "Select the color for page title. Recommended tags: H1 or H2."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2625
+msgctxt "Admin - Theme Options Search"
+msgid "page title color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2636
+msgctxt "Admin - Theme Options"
+msgid "Title Text Transform"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2637
+msgctxt "Admin - Theme Options"
+msgid "Set the text transform option for page title."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2639
+msgctxt "Admin - Theme Options Search"
+msgid "page title text transform"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2650
+msgctxt "Admin - Theme Options"
+msgid "Title Text Align"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2651
+msgctxt "Admin - Theme Options"
+msgid "Set the text alignment for page title."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2653
+msgctxt "Admin - Theme Options Search"
+msgid "page title text align"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2664, ../includes/extra/class-settings.php:2916
+msgctxt "Admin - Theme Options"
+msgid "Container Max Width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2665, ../includes/extra/class-settings.php:2917
+msgctxt "Admin - Theme Options"
+msgid "Set the page title container maximum width for desktop screens. Mobile screens will use full container width."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2667, ../includes/extra/class-settings.php:2919
+msgctxt "Admin - Theme Options Search"
+msgid "container max width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2678
+msgctxt "Admin - Theme Options"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2679
+msgctxt "Admin - Theme Options"
+msgid "Add breadcrumb links on the right side of page title."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2681
+msgctxt "Admin - Theme Options Search"
+msgid "breadcrumbs"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2693
+msgctxt "Admin - Theme Options"
+msgid "Set the blog page and archive layout."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2694, ../includes/extra/class-settings.php:2705, ../includes/extra/class-settings.php:2716, ../includes/extra/class-settings.php:2727, ../includes/extra/class-settings.php:2738, ../includes/extra/class-settings.php:2752, ../includes/extra/class-settings.php:2763, ../includes/extra/class-settings.php:2774, ../includes/extra/class-settings.php:2785, ../includes/extra/class-settings.php:2796, ../includes/extra/class-settings.php:2807, ../includes/extra/class-settings.php:2818, ../includes/extra/class-settings.php:2829, ../includes/extra/class-settings.php:2840, ../includes/extra/class-settings.php:2851, ../includes/extra/class-settings.php:2861, ../includes/extra/class-settings.php:2871, ../includes/extra/class-settings.php:2882, ../includes/extra/class-settings.php:2893, ../includes/extra/class-settings.php:2904, ../includes/extra/class-settings.php:2918, ../includes/extra/class-settings.php:2932, ../includes/extra/class-settings.php:2943, ../includes/extra/class-settings.php:2954, ../includes/extra/class-settings.php:2965, ../includes/extra/class-settings.php:2976, ../includes/extra/class-settings.php:2987, ../includes/extra/class-settings.php:2997, ../includes/extra/class-settings.php:3007, ../includes/extra/class-settings.php:3018, ../includes/extra/class-settings.php:3029, ../includes/extra/class-settings.php:3040, ../includes/extra/class-settings.php:3051, ../includes/extra/class-settings.php:3072, ../includes/extra/class-settings.php:3083, ../includes/extra/class-settings.php:3094, ../includes/extra/class-settings.php:3659, ../includes/extra/class-settings.php:4190, ../includes/extra/class-settings.php:4201, ../includes/extra/class-settings.php:4437, ../includes/extra/class-settings.php:4817, ../includes/extra/class-settings.php:4829, ../includes/extra/class-settings.php:4840, ../includes/extra/class-settings.php:4853, ../includes/extra/class-settings.php:4864, ../includes/extra/class-settings.php:4877
+msgctxt "Admin - Theme Options"
+msgid "Blog"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2695
+msgctxt "Admin - Theme Options Search"
+msgid "blog layout"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2703, ../includes/extra/class-settings.php:3114, ../includes/extra/class-settings.php:3299
+msgctxt "Admin - Theme Options"
+msgid "Grid Columns"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2704
+msgctxt "Admin - Theme Options"
+msgid "Set the number of columns for blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2706, ../includes/extra/class-settings.php:3302
+msgctxt "Admin - Theme Options Search"
+msgid "grid columns"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2714
+msgctxt "Admin - Theme Options"
+msgid "Grid Items Spacing"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2715
+msgctxt "Admin - Theme Options"
+msgid "Set the item spacing for blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2717, ../includes/extra/class-settings.php:3142
+msgctxt "Admin - Theme Options Search"
+msgid "grid item spacing"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2725, ../includes/extra/class-settings.php:3150
+msgctxt "Admin - Theme Options"
+msgid "Item Hover Effect"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2726
+msgctxt "Admin - Theme Options"
+msgid "Set the item hover effect for blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2728
+msgctxt "Admin - Theme Options Search"
+msgid "item hover effect"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2736, ../includes/extra/class-settings.php:3161
+msgctxt "Admin - Theme Options"
+msgid "Image Ratio"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2737
+msgctxt "Admin - Theme Options"
+msgid "Set the item image ratio for blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2739
+msgctxt "Admin - Theme Options Search"
+msgid "item image ratio"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2750, ../includes/extra/class-settings.php:3172
+msgctxt "Admin - Theme Options"
+msgid "Image Border Radius"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2751
+msgctxt "Admin - Theme Options"
+msgid "Set the item image border radius for blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2753
+msgctxt "Admin - Theme Options Search"
+msgid "item image border radius"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2761
+msgctxt "Admin - Theme Options"
+msgid "Post Title Style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2762
+msgctxt "Admin - Theme Options"
+msgid "Set the text options for post title in blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2764
+msgctxt "Admin - Theme Options Search"
+msgid "post title"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2772
+msgctxt "Admin - Theme Options"
+msgid "Show Excerpt on Blog Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2773
+msgctxt "Admin - Theme Options"
+msgid "Enable / disable excerpt in blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2775
+msgctxt "Admin - Theme Options Search"
+msgid "post excerpt"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2783
+msgctxt "Admin - Theme Options"
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2784
+msgctxt "Admin - Theme Options"
+msgid "Set the excerpt length (number of words) in blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2786
+msgctxt "Admin - Theme Options Search"
+msgid "post excerpt length"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2794
+msgctxt "Admin - Theme Options"
+msgid "Post Excerpt Style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2795
+msgctxt "Admin - Theme Options"
+msgid "Set the post excerpt options for blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2797
+msgctxt "Admin - Theme Options Search"
+msgid "post excerpt style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2805
+msgctxt "Admin - Theme Options"
+msgid "Show Author on Blog Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2806
+msgctxt "Admin - Theme Options"
+msgid "Show / hide author name in blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2808, ../includes/extra/class-settings.php:2933
+msgctxt "Admin - Theme Options Search"
+msgid "author"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2816
+msgctxt "Admin - Theme Options"
+msgid "Show Date on Blog Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2817
+msgctxt "Admin - Theme Options"
+msgid "Show / hide post date in blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2819, ../includes/extra/class-settings.php:2944
+msgctxt "Admin - Theme Options Search"
+msgid "date"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2827
+msgctxt "Admin - Theme Options"
+msgid "Show Category on Blog Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2828
+msgctxt "Admin - Theme Options"
+msgid "Show / hide post category in blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2830, ../includes/extra/class-settings.php:2955
+msgctxt "Admin - Theme Options Search"
+msgid "category"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2839
+msgctxt "Admin - Theme Options"
+msgid "Set the top/bottom spacing on blog page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2841
+msgctxt "Admin - Theme Options Search"
+msgid "blog vertical padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2849
+msgctxt "Admin - Theme Options"
+msgid "Blog Items on Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2850
+msgctxt "Admin - Theme Options"
+msgid "Set the number of posts displayed on a page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2852
+msgctxt "Admin - Theme Options Search"
+msgid "blog items"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2859
+msgctxt "Admin - Theme Options"
+msgid "Blog Page Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2860
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar for blog page and archive."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2862, ../includes/extra/class-settings.php:2998
+msgctxt "Admin - Theme Options Search"
+msgid "sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2869
+msgctxt "Admin - Theme Options"
+msgid "Blog Page Sidebar Position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2870
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar position for blog page and archive."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2872, ../includes/extra/class-settings.php:3008
+msgctxt "Admin - Theme Options Search"
+msgid "sidebar position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2880
+msgctxt "Admin - Theme Options"
+msgid "Blog Page Sticky Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2881, ../includes/extra/class-settings.php:3017, ../includes/extra/class-settings.php:3237, ../includes/extra/class-settings.php:3278, ../includes/extra/class-settings.php:3353, ../includes/extra/class-settings.php:3384
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar to sticky on page scroll."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2883, ../includes/extra/class-settings.php:3019
+msgctxt "Admin - Theme Options Search"
+msgid "sticky sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2891
+msgctxt "Admin - Theme Options"
+msgid "Blog Post Page Title"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2892
+msgctxt "Admin - Theme Options"
+msgid "Set the blog post title layout. Default page title is set in Theme Options - Page Title."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2894
+msgctxt "Admin - Theme Options Search"
+msgid "page title"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2902
+msgctxt "Admin - Theme Options"
+msgid "Blog Post Featured Image"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2903
+msgctxt "Admin - Theme Options"
+msgid "Show / hide the post featured image below the post title."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2930
+msgctxt "Admin - Theme Options"
+msgid "Show Author on Blog Post"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2931
+msgctxt "Admin - Theme Options"
+msgid "Show / hide author name on blog post."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2941
+msgctxt "Admin - Theme Options"
+msgid "Show Date on Blog Post"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2942
+msgctxt "Admin - Theme Options"
+msgid "Show / hide date on blog post."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2952
+msgctxt "Admin - Theme Options"
+msgid "Show Category on Blog Post"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2953
+msgctxt "Admin - Theme Options"
+msgid "Show / hide category on blog post."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2963
+msgctxt "Admin - Theme Options"
+msgid "Show Tags on Blog Post"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2964
+msgctxt "Admin - Theme Options"
+msgid "Show / hide tags on blog post."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2966
+msgctxt "Admin - Theme Options Search"
+msgid "tags"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2974
+msgctxt "Admin - Theme Options"
+msgid "Narrow Post Width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2975
+msgctxt "Admin - Theme Options"
+msgid "Set the post container width to 65% of default container width. Only applied on desktop screens."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2977
+msgctxt "Admin - Theme Options Search"
+msgid "narrow width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2985
+msgctxt "Admin - Theme Options"
+msgid "Reading Progress"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2986
+msgctxt "Admin - Theme Options"
+msgid "Show a reading progress bar below the header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2988
+msgctxt "Admin - Theme Options Search"
+msgid "reading progress"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2995
+msgctxt "Admin - Theme Options"
+msgid "Blog Post Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:2996
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar for blog post."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3005
+msgctxt "Admin - Theme Options"
+msgid "Blog Post Sidebar Position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3006
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar position for blog post."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3016
+msgctxt "Admin - Theme Options"
+msgid "Blog Post Sticky Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3028
+msgctxt "Admin - Theme Options"
+msgid "Set blog post Heading 1 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3039
+msgctxt "Admin - Theme Options"
+msgid "Set blog post Heading 2 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3050
+msgctxt "Admin - Theme Options"
+msgid "Set blog post Heading 3 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3061
+msgctxt "Admin - Theme Options"
+msgid "Set blog post Heading 4 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3071
+msgctxt "Admin - Theme Options"
+msgid "Set blog post Heading 5 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3082
+msgctxt "Admin - Theme Options"
+msgid "Set blog post Heading 6 options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3093
+msgctxt "Admin - Theme Options"
+msgid "Set blog post <body> and <p> options."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3104
+msgctxt "Admin - Theme Options"
+msgid "Set the portfolio page and archive layout."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3105, ../includes/extra/class-settings.php:3116, ../includes/extra/class-settings.php:3127, ../includes/extra/class-settings.php:3141, ../includes/extra/class-settings.php:3152, ../includes/extra/class-settings.php:3163, ../includes/extra/class-settings.php:3174, ../includes/extra/class-settings.php:3185, ../includes/extra/class-settings.php:3196, ../includes/extra/class-settings.php:3207, ../includes/extra/class-settings.php:3217, ../includes/extra/class-settings.php:3227, ../includes/extra/class-settings.php:3238, ../includes/extra/class-settings.php:3248, ../includes/extra/class-settings.php:3258, ../includes/extra/class-settings.php:3268, ../includes/extra/class-settings.php:3279, ../includes/extra/class-settings.php:4448
+msgctxt "Admin - Theme Options"
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3106
+msgctxt "Admin - Theme Options Search"
+msgid "portfolio layout"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3115
+msgctxt "Admin - Theme Options"
+msgid "Set the number of columns for portfolio grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3117
+msgctxt "Admin - Theme Options Search"
+msgid "portfolio grid columns"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3125
+msgctxt "Admin - Theme Options"
+msgid "Item Size"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3126
+msgctxt "Admin - Theme Options"
+msgid "Set the item size for justified tiles grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3128
+msgctxt "Admin - Theme Options Search"
+msgid "grid item size"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3139
+msgctxt "Admin - Theme Options"
+msgid "Item Spacing"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3140
+msgctxt "Admin - Theme Options"
+msgid "Set the item spacing for portfolio grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3151
+msgctxt "Admin - Theme Options"
+msgid "Set the item hover effect for portfolio grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3153
+msgctxt "Admin - Theme Options Search"
+msgid "grid item hover effect"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3162
+msgctxt "Admin - Theme Options"
+msgid "Set the item image ratio for portfolio grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3164
+msgctxt "Admin - Theme Options Search"
+msgid "grid item image ratio"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3173
+msgctxt "Admin - Theme Options"
+msgid "Set the item image border radius for portfolio grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3175
+msgctxt "Admin - Theme Options Search"
+msgid "grid item image border radius"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3184
+msgctxt "Admin - Theme Options"
+msgid "Set top/bottom spacing for portfolio page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3186, ../includes/extra/class-settings.php:3197, ../includes/extra/class-settings.php:3313
+msgctxt "Admin - Theme Options Search"
+msgid "vertical padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3194
+msgctxt "Admin - Theme Options"
+msgid "Portfolio Items on Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3195
+msgctxt "Admin - Theme Options"
+msgid "Set the number of portfolio items displayed on a page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3205
+msgctxt "Admin - Theme Options"
+msgid "Full Width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3206
+msgctxt "Admin - Theme Options"
+msgid "Stretch portfolio grid to full page width."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3208
+msgctxt "Admin - Theme Options Search"
+msgid "portfolio full width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3215
+msgctxt "Admin - Theme Options"
+msgid "Portfolio Page Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3216
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar for portfolio page and archive."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3218
+msgctxt "Admin - Theme Options Search"
+msgid "portfolio page sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3225
+msgctxt "Admin - Theme Options"
+msgid "Portfolio Page Sidebar Position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3226
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar position for portfolio page and archive."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3228
+msgctxt "Admin - Theme Options Search"
+msgid "portfolio page sidebar position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3236
+msgctxt "Admin - Theme Options"
+msgid "Portfolio Page Sticky Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3239
+msgctxt "Admin - Theme Options Search"
+msgid "portfolio page sidebar sticky"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3246
+msgctxt "Admin - Theme Options"
+msgid "Portfolio Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3247
+msgctxt "Admin - Theme Options"
+msgid "Select a custom portfolio page. If left blank, portfolio will be available at yoursite.com/portfolio."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3249
+msgctxt "Admin - Theme Options Search"
+msgid "portfolio custom page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3256
+msgctxt "Admin - Theme Options"
+msgid "Portfolio Post Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3257
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar for portfolio post."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3259
+msgctxt "Admin - Theme Options Search"
+msgid "portfolio post sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3266
+msgctxt "Admin - Theme Options"
+msgid "Portfolio Post Sidebar Position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3267
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar position for portfolio posts."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3269
+msgctxt "Admin - Theme Options Search"
+msgid "portfolio post sidebar position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3277
+msgctxt "Admin - Theme Options"
+msgid "Portfolio Post Sticky Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3280
+msgctxt "Admin - Theme Options Search"
+msgid "portfolio post sidebar sticky"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3288
+msgctxt "Admin - Theme Options"
+msgid "Header Cart Icon"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3289
+msgctxt "Admin - Theme Options"
+msgid "Show / hide a shopping cart icon on the right side of the header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3290, ../includes/extra/class-settings.php:3301, ../includes/extra/class-settings.php:3312, ../includes/extra/class-settings.php:3323, ../includes/extra/class-settings.php:3333, ../includes/extra/class-settings.php:3343, ../includes/extra/class-settings.php:3354, ../includes/extra/class-settings.php:3364, ../includes/extra/class-settings.php:3374, ../includes/extra/class-settings.php:3385
+msgctxt "Admin - Theme Options"
+msgid "WooCommerce"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3291
+msgctxt "Admin - Theme Options Search"
+msgid "shop page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3300
+msgctxt "Admin - Theme Options"
+msgid "Set the number of columns for shop page grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3310
+msgctxt "Admin - Theme Options"
+msgid "Shop Page Vertical Padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3311
+msgctxt "Admin - Theme Options"
+msgid "Set the top/bottom spacing for shop page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3321
+msgctxt "Admin - Theme Options"
+msgid "Products on Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3322
+msgctxt "Admin - Theme Options"
+msgid "Set number of products displayed on a page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3324
+msgctxt "Admin - Theme Options Search"
+msgid "products number"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3331
+msgctxt "Admin - Theme Options"
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3332
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar for shop page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3334
+msgctxt "Admin - Theme Options Search"
+msgid "shop page sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3341
+msgctxt "Admin - Theme Options"
+msgid "Shop Page Sidebar Position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3342
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar position for shop page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3344
+msgctxt "Admin - Theme Options Search"
+msgid "shop sidebar position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3352
+msgctxt "Admin - Theme Options"
+msgid "Shop Page Sticky Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3355
+msgctxt "Admin - Theme Options Search"
+msgid "shop sidebar sticky"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3362
+msgctxt "Admin - Theme Options"
+msgid "Product Page Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3363
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar for product page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3365
+msgctxt "Admin - Theme Options Search"
+msgid "product page sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3372
+msgctxt "Admin - Theme Options"
+msgid "Product Page Sidebar Position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3373
+msgctxt "Admin - Theme Options"
+msgid "Set the sidebar position for product page."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3375
+msgctxt "Admin - Theme Options Search"
+msgid "product sidebar position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3383
+msgctxt "Admin - Theme Options"
+msgid "Product Page Sticky Sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3386
+msgctxt "Admin - Theme Options Search"
+msgid "product sidebar sticky"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3393
+msgctxt "Admin - Theme Options"
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3394
+msgctxt "Admin - Theme Options"
+msgid "Facebook page link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3395, ../includes/extra/class-settings.php:3405, ../includes/extra/class-settings.php:3415, ../includes/extra/class-settings.php:3425, ../includes/extra/class-settings.php:3435, ../includes/extra/class-settings.php:3445, ../includes/extra/class-settings.php:3455, ../includes/extra/class-settings.php:3499, ../includes/extra/class-settings.php:3509, ../includes/extra/class-settings.php:3519, ../includes/extra/class-settings.php:3529, ../includes/extra/class-settings.php:3539, ../includes/extra/class-settings.php:3549, ../includes/extra/class-settings.php:3559, ../includes/extra/class-settings.php:4212, ../includes/extra/class-settings.php:4222, ../includes/extra/class-settings.php:4806
+msgctxt "Admin - Theme Options"
+msgid "Social"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3396, ../includes/extra/class-settings.php:3500
+msgctxt "Admin - Theme Options Search"
+msgid "facebook"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3403
+msgctxt "Admin - Theme Options"
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3404
+msgctxt "Admin - Theme Options"
+msgid "Twitter account link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3406
+msgctxt "Admin - Theme Options Search"
+msgid "twitter"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3413
+msgctxt "Admin - Theme Options"
+msgid "YouTube"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3414
+msgctxt "Admin - Theme Options"
+msgid "Youtube channel link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3416
+msgctxt "Admin - Theme Options Search"
+msgid "youtube"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3423
+msgctxt "Admin - Theme Options"
+msgid "Instagram"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3424
+msgctxt "Admin - Theme Options"
+msgid "Instagram account link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3426
+msgctxt "Admin - Theme Options Search"
+msgid "instagram"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3433
+msgctxt "Admin - Theme Options"
+msgid "LinkedIn"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3434
+msgctxt "Admin - Theme Options"
+msgid "LinkedIn profile link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3436
+msgctxt "Admin - Theme Options Search"
+msgid "linkedin"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3443
+msgctxt "Admin - Theme Options"
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3444
+msgctxt "Admin - Theme Options"
+msgid "Pinterest profile link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3446, ../includes/extra/class-settings.php:3456
+msgctxt "Admin - Theme Options Search"
+msgid "pinterest"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3453
+msgctxt "Admin - Theme Options"
+msgid "Twitch"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3454
+msgctxt "Admin - Theme Options"
+msgid "Twitch account link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3463
+msgctxt "Admin - Theme Options"
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3464
+msgctxt "Admin - Theme Options"
+msgid "Set your custom CSS code. Loaded before &lt;/head&gt; tag."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3465, ../includes/extra/class-settings.php:3475, ../includes/extra/class-settings.php:4978, ../includes/extra/class-settings.php:4989
+msgctxt "Admin - Theme Options"
+msgid "Custom"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3466
+msgctxt "Admin - Theme Options Search"
+msgid "custom css CSS"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3473
+msgctxt "Admin - Theme Options"
+msgid "Custom JS"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3474
+msgctxt "Admin - Theme Options"
+msgid "Set your custom JavaScript code. Loaded before &lt;/body&gt; tag. &lt;script&gt; tags are automatically added."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3476
+msgctxt "Admin - Theme Options Search"
+msgid "custom js JS javascript"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3484
+msgctxt "Admin - Theme Options"
+msgid "Header Shadow"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3485
+msgctxt "Admin - Theme Options"
+msgid "Add a box shadow on the header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3487
+msgctxt "Admin - Theme Options Search"
+msgid "header shadow"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3497
+msgctxt "Admin - Theme Options"
+msgid "Snapchat"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3498
+msgctxt "Admin - Theme Options"
+msgid "Snapchat profile link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3507
+msgctxt "Admin - Theme Options"
+msgid "Reddit"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3508
+msgctxt "Admin - Theme Options"
+msgid "Reddit profile link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3510
+msgctxt "Admin - Theme Options Search"
+msgid "reddit"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3517
+msgctxt "Admin - Theme Options"
+msgid "TikTok"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3518
+msgctxt "Admin - Theme Options"
+msgid "TikTok profile link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3520
+msgctxt "Admin - Theme Options Search"
+msgid "tiktok"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3527
+msgctxt "Admin - Theme Options"
+msgid "Whatsapp"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3528
+msgctxt "Admin - Theme Options"
+msgid "Whatsapp shortlink."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3530
+msgctxt "Admin - Theme Options Search"
+msgid "whatsapp"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3537
+msgctxt "Admin - Theme Options"
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3538
+msgctxt "Admin - Theme Options"
+msgid "Vimeo channel link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3540
+msgctxt "Admin - Theme Options Search"
+msgid "vimeo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3547
+msgctxt "Admin - Theme Options"
+msgid "WeChat"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3548
+msgctxt "Admin - Theme Options"
+msgid "WeChat profile link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3550
+msgctxt "Admin - Theme Options Search"
+msgid "wechat"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3557
+msgctxt "Admin - Theme Options"
+msgid "Messenger"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3558
+msgctxt "Admin - Theme Options"
+msgid "Messenger username link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3560
+msgctxt "Admin - Theme Options Search"
+msgid "messenger"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3569
+msgctxt "Admin - Theme Options"
+msgid "Usually a contrasting color used to draw attention to key pieces of your website."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3570
+msgctxt "Admin - Theme Options Search"
+msgid "accent color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3579
+msgctxt "Admin - Theme Options"
+msgid "A dark, contrasting color, used by all headlines in your website."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3580
+msgctxt "Admin - Theme Options Search"
+msgid "headline color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3589
+msgctxt "Admin - Theme Options"
+msgid "A neutral grey, easy to read color, used by all text elements."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3590
+msgctxt "Admin - Theme Options Search"
+msgid "body color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3599
+msgctxt "Admin - Theme Options"
+msgid "Generally used as background color for footer, copyright and dark sections."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3600
+msgctxt "Admin - Theme Options Search"
+msgid "dark neutral color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3609
+msgctxt "Admin - Theme Options"
+msgid "Generally used as background color for light, alternating sections."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3610
+msgctxt "Admin - Theme Options Search"
+msgid "light neutral color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3619
+msgctxt "Admin - Theme Options"
+msgid "The main font of your website. Used by most headlines."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3620, ../includes/extra/class-settings.php:3630
+msgctxt "Admin - Theme Options Search"
+msgid "primary font family"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3629
+msgctxt "Admin - Theme Options"
+msgid "The secondary font of your website. Used by secondary headlines and smaller elements."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3639
+msgctxt "Admin - Theme Options"
+msgid "The most readable font, used by all text elements."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3640
+msgctxt "Admin - Theme Options Search"
+msgid "text font family"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3649
+msgctxt "Admin - Theme Options"
+msgid "The odd one. Usually found in accent headlines."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3650
+msgctxt "Admin - Theme Options Search"
+msgid "accent font family"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3658
+msgctxt "Admin - Theme Options"
+msgid "Date Type"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3660
+msgctxt "Admin - Theme Options"
+msgid "Choose the date display type."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3661
+msgctxt "Admin - Theme Options Search"
+msgid "date type"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3673, ../includes/extra/class-settings.php:3684, ../includes/extra/class-settings.php:3695, ../includes/extra/class-settings.php:3706, ../includes/extra/class-settings.php:3717, ../includes/extra/class-settings.php:3728, ../includes/extra/class-settings.php:3739, ../includes/extra/class-settings.php:4492
+msgctxt "Admin - Theme Options"
+msgid "Buttons"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3674
+msgctxt "Admin - Theme Options"
+msgid "Set global typography options for buttons."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3675
+msgctxt "Admin - Theme Options Search"
+msgid "button buttons typography"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3685
+msgctxt "Admin - Theme Options"
+msgid "Set the global background colors for buttons."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3686
+msgctxt "Admin - Theme Options Search"
+msgid "button buttons background color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3694
+msgctxt "Admin - Theme Options"
+msgid "Border Type"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3696
+msgctxt "Admin - Theme Options"
+msgid "Set the global border type for buttons."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3697
+msgctxt "Admin - Theme Options Search"
+msgid "button buttons border type"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3705
+msgctxt "Admin - Theme Options"
+msgid "Border Width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3707
+msgctxt "Admin - Theme Options"
+msgid "Set the global border width for buttons."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3708
+msgctxt "Admin - Theme Options Search"
+msgid "button buttons border width"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3718
+msgctxt "Admin - Theme Options"
+msgid "Set the global border color for buttons."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3719
+msgctxt "Admin - Theme Options Search"
+msgid "button buttons border color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3729
+msgctxt "Admin - Theme Options"
+msgid "Set the global border radius for buttons."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3730
+msgctxt "Admin - Theme Options Search"
+msgid "button buttons border radius"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3738
+msgctxt "Admin - Theme Options"
+msgid "Padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3740
+msgctxt "Admin - Theme Options"
+msgid "Set the global padding for buttons."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3741
+msgctxt "Admin - Theme Options Search"
+msgid "button buttons padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3749
+msgctxt "Admin - Theme Options"
+msgid "Sticky on Top"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3751
+msgctxt "Admin - Theme Options"
+msgid "Top Banner stays fixed on top on page scroll."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3752
+msgctxt "Admin - Theme Options Search"
+msgid "top banner sticky fixed"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3760
+msgctxt "Admin - Theme Options"
+msgid "Dismissable"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3762
+msgctxt "Admin - Theme Options"
+msgid "Allow users to dismiss the banner using a close button."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3763
+msgctxt "Admin - Theme Options Search"
+msgid "top banner dismissable"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3771
+msgctxt "Admin - Theme Options"
+msgid "Token"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3773
+msgctxt "Admin - Theme Options"
+msgid "Generate a new token to show the top bar again after dismissing it."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3774
+msgctxt "Admin - Theme Options Search"
+msgid "top banner dismissable token"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3782
+msgctxt "Admin - Theme Options"
+msgid "Enable Animations"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3783, ../includes/extra/class-settings.php:3794, ../includes/extra/class-settings.php:3805, ../includes/extra/class-settings.php:3816, ../includes/extra/class-settings.php:3827, ../includes/extra/class-settings.php:3838, ../includes/extra/class-settings.php:3849, ../includes/extra/class-settings.php:3860, ../includes/extra/class-settings.php:3871, ../includes/extra/class-settings.php:3882, ../includes/extra/class-settings.php:3893, ../includes/extra/class-settings.php:3904, ../includes/extra/class-settings.php:3915, ../includes/extra/class-settings.php:3926, ../includes/extra/class-settings.php:3937, ../includes/extra/class-settings.php:3948, ../includes/extra/class-settings.php:3959, ../includes/extra/class-settings.php:3970, ../includes/extra/class-settings.php:3981, ../includes/extra/class-settings.php:3992, ../includes/extra/class-settings.php:4003, ../includes/extra/class-settings.php:4014, ../includes/extra/class-settings.php:4025, ../includes/extra/class-settings.php:4036, ../includes/extra/class-settings.php:4047, ../includes/extra/class-settings.php:4058, ../includes/extra/class-settings.php:4069, ../includes/extra/class-settings.php:4080, ../includes/extra/class-settings.php:4091, ../includes/extra/class-settings.php:4102, ../includes/extra/class-settings.php:4310
+msgctxt "Admin - Theme Options"
+msgid "Animations"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3784
+msgctxt "Admin - Theme Options"
+msgid "Enable animations engine. Turning this feature off will increase your website performance in browser (client side)."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3785
+msgctxt "Admin - Theme Options Search"
+msgid "animations enable"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3793, ../includes/extra/class-settings.php:3826, ../includes/extra/class-settings.php:3870, ../includes/extra/class-settings.php:3914, ../includes/extra/class-settings.php:3925, ../includes/extra/class-settings.php:3969, ../includes/extra/class-settings.php:4013, ../includes/extra/class-settings.php:4046, ../includes/extra/class-settings.php:4079
+msgctxt "Admin - Theme Options"
+msgid "Animation Type"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3795, ../includes/extra/class-settings.php:3828, ../includes/extra/class-settings.php:3872, ../includes/extra/class-settings.php:3916, ../includes/extra/class-settings.php:3927, ../includes/extra/class-settings.php:3971, ../includes/extra/class-settings.php:4015, ../includes/extra/class-settings.php:4048, ../includes/extra/class-settings.php:4081
+msgctxt "Admin - Theme Options"
+msgid "Set the animation style."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3796, ../includes/extra/class-settings.php:3829, ../includes/extra/class-settings.php:3873, ../includes/extra/class-settings.php:3917, ../includes/extra/class-settings.php:3928, ../includes/extra/class-settings.php:3972, ../includes/extra/class-settings.php:4016, ../includes/extra/class-settings.php:4049, ../includes/extra/class-settings.php:4082
+msgctxt "Admin - Theme Options Search"
+msgid "animation type"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3804, ../includes/extra/class-settings.php:3837, ../includes/extra/class-settings.php:3881, ../includes/extra/class-settings.php:3936, ../includes/extra/class-settings.php:3980, ../includes/extra/class-settings.php:4024, ../includes/extra/class-settings.php:4057, ../includes/extra/class-settings.php:4090
+msgctxt "Admin - Theme Options"
+msgid "Animation Duration"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3806, ../includes/extra/class-settings.php:3839, ../includes/extra/class-settings.php:3883, ../includes/extra/class-settings.php:3938, ../includes/extra/class-settings.php:3982, ../includes/extra/class-settings.php:4026, ../includes/extra/class-settings.php:4059, ../includes/extra/class-settings.php:4092
+msgctxt "Admin - Theme Options"
+msgid "Set the animation speed."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3807, ../includes/extra/class-settings.php:3840, ../includes/extra/class-settings.php:3884, ../includes/extra/class-settings.php:3939, ../includes/extra/class-settings.php:3983, ../includes/extra/class-settings.php:4027, ../includes/extra/class-settings.php:4060, ../includes/extra/class-settings.php:4093
+msgctxt "Admin - Theme Options Search"
+msgid "animation duration"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3815
+msgctxt "Admin - Theme Options"
+msgid "Reveal Background Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3817
+msgctxt "Admin - Theme Options"
+msgid "Set the background color for reveal animation."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3818
+msgctxt "Admin - Theme Options Search"
+msgid "animation reveal background color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3848, ../includes/extra/class-settings.php:3892, ../includes/extra/class-settings.php:3947, ../includes/extra/class-settings.php:3991
+msgctxt "Admin - Theme Options"
+msgid "Animation Delay"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3850, ../includes/extra/class-settings.php:3894, ../includes/extra/class-settings.php:3949, ../includes/extra/class-settings.php:3993
+msgctxt "Admin - Theme Options"
+msgid "Set the time before animation starts loading."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3851, ../includes/extra/class-settings.php:3895, ../includes/extra/class-settings.php:3950, ../includes/extra/class-settings.php:3994
+msgctxt "Admin - Theme Options Search"
+msgid "animation delay"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3859, ../includes/extra/class-settings.php:3903, ../includes/extra/class-settings.php:3958, ../includes/extra/class-settings.php:4002, ../includes/extra/class-settings.php:4035, ../includes/extra/class-settings.php:4068, ../includes/extra/class-settings.php:4101
+msgctxt "Admin - Theme Options"
+msgid "Delay Between Elements"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3861
+msgctxt "Admin - Theme Options"
+msgid "Set the animation delay between elements inside top banner."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3862, ../includes/extra/class-settings.php:3906, ../includes/extra/class-settings.php:3961, ../includes/extra/class-settings.php:4005, ../includes/extra/class-settings.php:4038, ../includes/extra/class-settings.php:4071, ../includes/extra/class-settings.php:4104
+msgctxt "Admin - Theme Options Search"
+msgid "animation delay elements"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3905
+msgctxt "Admin - Theme Options"
+msgid "Set the animation delay between elements inside the header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:3960
+msgctxt "Admin - Theme Options"
+msgid "Set the animation delay between elements inside page title."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4004
+msgctxt "Admin - Theme Options"
+msgid "Set the animation delay between elements inside the footer."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4037
+msgctxt "Admin - Theme Options"
+msgid "Set the animation delay between elements inside the blog grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4070
+msgctxt "Admin - Theme Options"
+msgid "Set the animation delay between elements inside the portfolio grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4103
+msgctxt "Admin - Theme Options"
+msgid "Set the animation delay between elements inside the shop grid."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4112
+msgctxt "Admin - Theme Options"
+msgid "Project ID"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4113
+msgctxt "Admin - Theme Options"
+msgid "Global Fonts"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4114
+msgctxt "Admin - Theme Options"
+msgid "Set your Adobe TypeKit project ID."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4115
+msgctxt "Admin - Theme Options Search"
+msgid "typekit adobe font"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4123
+msgctxt "Admin - Theme Options"
+msgid "Blurred Background (Glassmorphism)"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4125
+msgctxt "Admin - Theme Options"
+msgid "Blur background behind header. Active only if a transparent color is set as background."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4126
+msgctxt "Admin - Theme Options Search"
+msgid "header background blur"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4134
+msgctxt "Admin - Theme Options"
+msgid "Hamburger Icon Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4136
+msgctxt "Admin - Theme Options"
+msgid "Set the normal and hover colors for menu hamburger icon."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4137
+msgctxt "Admin - Theme Options Search"
+msgid "header hamburger icon color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4145
+msgctxt "Admin - Theme Options"
+msgid "Full Screen Menu Logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4147
+msgctxt "Admin - Theme Options"
+msgid "Select the logo you want to show inside the full screen menu (Hamburger Header)."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4148
+msgctxt "Admin - Theme Options Search"
+msgid "header hamburger logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4156
+msgctxt "Admin - Theme Options"
+msgid "Focus Hover Item"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4158
+msgctxt "Admin - Theme Options"
+msgid "Keeps the hover item in focus by decreasing opacity on the other items."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4159
+msgctxt "Admin - Theme Options Search"
+msgid "header item focus"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4167
+msgctxt "Admin - Theme Options"
+msgid "Full Screen Menu Background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4169
+msgctxt "Admin - Theme Options"
+msgid "Set the background for full screen menu (Hamburger Header)."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4170
+msgctxt "Admin - Theme Options Search"
+msgid "header menu background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4178
+msgctxt "Admin - Theme Options"
+msgid "Highlight Current Page"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4180
+msgctxt "Admin - Theme Options"
+msgid "Uses menu hover color to highlight current page menu item."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4181
+msgctxt "Admin - Theme Options Search"
+msgid "header current page highlight"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4189
+msgctxt "Admin - Theme Options"
+msgid "Item Style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4191
+msgctxt "Admin - Theme Options"
+msgid "Set the grid item style."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4192
+msgctxt "Admin - Theme Options Search"
+msgid "blog grid item style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4200
+msgctxt "Admin - Theme Options"
+msgid "Post Navigation"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4202
+msgctxt "Admin - Theme Options"
+msgid "Enable next / previous navigation at the end of the post."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4203
+msgctxt "Admin - Theme Options Search"
+msgid "blog post navigation"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4210
+msgctxt "Admin - Theme Options"
+msgid "Discord"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4211
+msgctxt "Admin - Theme Options"
+msgid "Discord channel link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4213
+msgctxt "Admin - Theme Options Search"
+msgid "discord"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4220
+msgctxt "Admin - Theme Options"
+msgid "Telegram"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4221
+msgctxt "Admin - Theme Options"
+msgid "Telegram link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4223
+msgctxt "Admin - Theme Options Search"
+msgid "telegram"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4230
+msgctxt "Admin - Theme Options"
+msgid "Emoji Script"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4231
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable the Emoji script (wp-emoji-release.min.js)."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4232, ../includes/extra/class-settings.php:4242, ../includes/extra/class-settings.php:4252, ../includes/extra/class-settings.php:4262, ../includes/extra/class-settings.php:4272, ../includes/extra/class-settings.php:4282, ../includes/extra/class-settings.php:4292, ../includes/extra/class-settings.php:4302, ../includes/extra/class-settings.php:4312, ../includes/extra/class-settings.php:4322, ../includes/extra/class-settings.php:4332, ../includes/extra/class-settings.php:4342, ../includes/extra/class-settings.php:4352, ../includes/extra/class-settings.php:4362
+msgctxt "Admin - Theme Options"
+msgid "Performance"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4233
+msgctxt "Admin - Theme Options Search"
+msgid "emoji"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4240
+msgctxt "Admin - Theme Options"
+msgid "Elementor Icons (eicon)"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4241
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable the default Elementor icon pack."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4243
+msgctxt "Admin - Theme Options Search"
+msgid "eicon icon elementor"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4250
+msgctxt "Admin - Theme Options"
+msgid "Font Awesome (fa)"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4251
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable Font Awesome icon pack."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4253
+msgctxt "Admin - Theme Options Search"
+msgid "font awesome fa"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4260
+msgctxt "Admin - Theme Options"
+msgid "Default WP Block Styles"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4261
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable the default styles from Gutenberg block library."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4263
+msgctxt "Admin - Theme Options Search"
+msgid "block styles"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4271
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable top banner."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4281
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable header globally."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4283
+msgctxt "Admin - Theme Options Search"
+msgid "header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4291
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable footer globally."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4293
+msgctxt "Admin - Theme Options Search"
+msgid "footer"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4300
+msgctxt "Admin - Theme Options"
+msgid "Copyright Bar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4301
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable copyright bar globally."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4303
+msgctxt "Admin - Theme Options Search"
+msgid "copright"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4311
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable all animations."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4313
+msgctxt "Admin - Theme Options Search"
+msgid "animations"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4320
+msgctxt "Admin - Theme Options"
+msgid "Smart Preload"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4321
+msgctxt "Admin - Theme Options"
+msgid "Turn on to enable smart preloading of inner pages."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4323
+msgctxt "Admin - Theme Options Search"
+msgid "smart preload"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4330
+msgctxt "Admin - Theme Options"
+msgid "WP Embed"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4331
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable WP Embed Script (wp-embed.min.js)."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4333
+msgctxt "Admin - Theme Options Search"
+msgid "wp embed"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4340
+msgctxt "Admin - Theme Options"
+msgid "Widgets"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4341
+msgctxt "Admin - Theme Options"
+msgid "Turn off to disable sidebar and widgets styles."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4343
+msgctxt "Admin - Theme Options Search"
+msgid "widgets sidebar"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4350
+msgctxt "Admin - Theme Options"
+msgid "All Font Styles"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4351
+msgctxt "Admin - Theme Options"
+msgid "Turn off to load only used font styles. If left on, all font styles will be loaded instead."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4353
+msgctxt "Admin - Theme Options Search"
+msgid "font styles"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4360
+msgctxt "Admin - Theme Options"
+msgid "Preload Featured Images"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4361
+msgctxt "Admin - Theme Options"
+msgid "Turn on to preload page title featured image."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4363
+msgctxt "Admin - Theme Options Search"
+msgid "preload featured image"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4372
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for Top Banner."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4373, ../includes/extra/class-settings.php:4384, ../includes/extra/class-settings.php:4395, ../includes/extra/class-settings.php:4406, ../includes/extra/class-settings.php:4417, ../includes/extra/class-settings.php:4428, ../includes/extra/class-settings.php:4439, ../includes/extra/class-settings.php:4450, ../includes/extra/class-settings.php:4461, ../includes/extra/class-settings.php:4472, ../includes/extra/class-settings.php:4483, ../includes/extra/class-settings.php:4494
+msgctxt "Admin - Theme Options"
+msgid "Theme Skin"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4374
+msgctxt "Admin - Theme Options Search"
+msgid "skin top banner"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4382
+msgctxt "Admin - Theme Options"
+msgid "Menu"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4383
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for main menu."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4385
+msgctxt "Admin - Theme Options Search"
+msgid "skin menu"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4393
+msgctxt "Admin - Theme Options"
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4394
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for mobile menu."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4396
+msgctxt "Admin - Theme Options Search"
+msgid "skin mobile menu"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4405
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for page title."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4407
+msgctxt "Admin - Theme Options Search"
+msgid "skin page title"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4415
+msgctxt "Admin - Theme Options"
+msgid "Sidebars"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4416
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for sidebars."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4418
+msgctxt "Admin - Theme Options Search"
+msgid "skin sidebars"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4427
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for footer."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4429
+msgctxt "Admin - Theme Options Search"
+msgid "skin footer"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4438
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for blog."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4440
+msgctxt "Admin - Theme Options Search"
+msgid "skin blog"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4449
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for portfolio."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4451
+msgctxt "Admin - Theme Options Search"
+msgid "skin portfolio"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4459
+msgctxt "Admin - Theme Options"
+msgid "Hamburger Icon"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4460
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for menu hamburger icon."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4462
+msgctxt "Admin - Theme Options Search"
+msgid "skin hamburger icon"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4471
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for back to top button."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4473
+msgctxt "Admin - Theme Options Search"
+msgid "skin back to top"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4481
+msgctxt "Admin - Theme Options"
+msgid "Links"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4482
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for links."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4484
+msgctxt "Admin - Theme Options Search"
+msgid "skin links"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4493
+msgctxt "Admin - Theme Options"
+msgid "Select theme skin for buttons."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4495
+msgctxt "Admin - Theme Options Search"
+msgid "skin buttons"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4503
+msgctxt "Admin - Theme Options"
+msgid "Enable Admin Customizer"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4504
+msgctxt "Admin - Theme Options"
+msgid "Use this feature to customize WP admin and theme options panel."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4505, ../includes/extra/class-settings.php:4516, ../includes/extra/class-settings.php:4527, ../includes/extra/class-settings.php:4538, ../includes/extra/class-settings.php:4549, ../includes/extra/class-settings.php:4560, ../includes/extra/class-settings.php:4571, ../includes/extra/class-settings.php:4582, ../includes/extra/class-settings.php:4593, ../includes/extra/class-settings.php:4604, ../includes/extra/class-settings.php:4615, ../includes/extra/class-settings.php:4626, ../includes/extra/class-settings.php:4637, ../includes/extra/class-settings.php:4648, ../includes/extra/class-settings.php:4659, ../includes/extra/class-settings.php:4670, ../includes/extra/class-settings.php:4681, ../includes/extra/class-settings.php:4692, ../includes/extra/class-settings.php:4703, ../includes/extra/class-settings.php:4714, ../includes/extra/class-settings.php:4901, ../includes/extra/class-settings.php:4912, ../includes/extra/class-settings.php:4923, ../includes/extra/class-settings.php:4934, ../includes/extra/class-settings.php:4945, ../includes/extra/class-settings.php:4956, ../includes/extra/class-settings.php:4967
+msgctxt "Admin - Theme Options"
+msgid "Admin Customizer"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4506
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer enable"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4514
+msgctxt "Admin - Theme Options"
+msgid "Theme Name"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4515
+msgctxt "Admin - Theme Options"
+msgid "Change theme name in WP dashboard."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4517
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer theme name"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4525
+msgctxt "Admin - Theme Options"
+msgid "Theme Icon"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4526
+msgctxt "Admin - Theme Options"
+msgid "Change theme icon in WP dashboard."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4528
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer theme icon"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4536
+msgctxt "Admin - Theme Options"
+msgid "Theme Logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4537
+msgctxt "Admin - Theme Options"
+msgid "Change logo in theme options (top left)."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4539
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer theme logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4547
+msgctxt "Admin - Theme Options"
+msgid "Panel Main Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4548
+msgctxt "Admin - Theme Options"
+msgid "Change main color in theme options panel."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4550
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer theme color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4558
+msgctxt "Admin - Theme Options"
+msgid "Dashboard Content"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4559
+msgctxt "Admin - Theme Options"
+msgid "Change content in dashboard tab. HTML is allowed."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4561
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer dashboard content"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4569
+msgctxt "Admin - Theme Options"
+msgid "Disable Documentation Icon"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4570
+msgctxt "Admin - Theme Options"
+msgid "Hide the documentation icon on top right."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4572
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer documentation icon"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4580
+msgctxt "Admin - Theme Options"
+msgid "Disable Demo Import"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4581
+msgctxt "Admin - Theme Options"
+msgid "Hide the demo import tab."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4583
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer demo import"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4591
+msgctxt "Admin - Theme Options"
+msgid "Disable Performance Manager"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4592
+msgctxt "Admin - Theme Options"
+msgid "Hide the performance tab."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4594
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer performance"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4602
+msgctxt "Admin - Theme Options"
+msgid "Disable Plugins Manager"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4603
+msgctxt "Admin - Theme Options"
+msgid "Hide the plugins tab."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4605
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer plugins"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4613
+msgctxt "Admin - Theme Options"
+msgid "Disable Updates"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4614
+msgctxt "Admin - Theme Options"
+msgid "Hide the updates tab."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4616, ../includes/extra/class-settings.php:4627
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer updates"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4624
+msgctxt "Admin - Theme Options"
+msgid "Disable Settings Reset"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4625
+msgctxt "Admin - Theme Options"
+msgid "Hide the Reset Settings button in System tab."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4635
+msgctxt "Admin - Theme Options"
+msgid "Allow Advanced Settings"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4636
+msgctxt "Admin - Theme Options"
+msgid "Turn off to hide advanced settings (marked with a colored dot)."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4638
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer advanced settings"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4646
+msgctxt "Admin - Theme Options"
+msgid "Login Background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4647
+msgctxt "Admin - Theme Options"
+msgid "Change the login screen background color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4649
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer login background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4657
+msgctxt "Admin - Theme Options"
+msgid "Login Form Background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4658
+msgctxt "Admin - Theme Options"
+msgid "Change the login form background color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4660
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer login form background"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4668
+msgctxt "Admin - Theme Options"
+msgid "Login Form Text Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4669
+msgctxt "Admin - Theme Options"
+msgid "Change the login form text color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4671
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer login text color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4679
+msgctxt "Admin - Theme Options"
+msgid "Login Primary Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4680
+msgctxt "Admin - Theme Options"
+msgid "Change the login screen primary color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4682
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer login primary color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4690
+msgctxt "Admin - Theme Options"
+msgid "Login Screen Logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4691
+msgctxt "Admin - Theme Options"
+msgid "Change the login screen logo (replaces WordPress logo)."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4693
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer login logo"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4701
+msgctxt "Admin - Theme Options"
+msgid "Login Screen Logo Height"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4702
+msgctxt "Admin - Theme Options"
+msgid "Set the custom login screen logo height."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4704
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer login logo height"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4712
+msgctxt "Admin - Theme Options"
+msgid "Login Screen Text Color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4713
+msgctxt "Admin - Theme Options"
+msgid "Change the login screen text color."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4715
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer text color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4723
+msgctxt "Admin - Theme Options"
+msgid "Smart Sticky"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4724
+msgctxt "Admin - Theme Options"
+msgid "Sticky header appears when scrolling up."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4726
+msgctxt "Admin - Theme Options Search"
+msgid "smart sticky"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4737
+msgctxt "Admin - Theme Options"
+msgid "Header Bottom Area padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4738
+msgctxt "Admin - Theme Options"
+msgid "Set top/bottom spacing for header bottom area bar."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4740
+msgctxt "Admin - Theme Options Search"
+msgid "header bottom padding"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4751
+msgctxt "Admin - Theme Options"
+msgid "Side Drawer"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4752
+msgctxt "Admin - Theme Options"
+msgid "Add a side drawer toggle in the header."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4754
+msgctxt "Admin - Theme Options Search"
+msgid "side drawer"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4762
+msgctxt "Admin - Theme Options"
+msgid "Side Drawer Text"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4763
+msgctxt "Admin - Theme Options"
+msgid "Set the side drawer toggle text."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4765
+msgctxt "Admin - Theme Options Search"
+msgid "side drawer text"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4776
+msgctxt "Admin - Theme Options"
+msgid "Side Drawer Toggle"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4777
+msgctxt "Admin - Theme Options"
+msgid "Set the side drawer open action."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4779
+msgctxt "Admin - Theme Options Search"
+msgid "side drawer toggle"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4790
+msgctxt "Admin - Theme Options"
+msgid "Side Drawer Position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4791
+msgctxt "Admin - Theme Options"
+msgid "Set the side drawer position."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4793
+msgctxt "Admin - Theme Options Search"
+msgid "side drawer position"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4804
+msgctxt "Admin - Theme Options"
+msgid "OpenSea"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4805
+msgctxt "Admin - Theme Options"
+msgid "OpenSea link."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4807
+msgctxt "Admin - Theme Options Search"
+msgid "open sea, opensea"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4815
+msgctxt "Admin - Theme Options"
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4816
+msgctxt "Admin - Theme Options"
+msgid "Display the breadcrumbs just before the post title."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4818
+msgctxt "Admin - Theme Options Search"
+msgid "blog page title breadcrumb"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4828
+msgctxt "Admin - Theme Options"
+msgid "Author Box"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4830
+msgctxt "Admin - Theme Options"
+msgid "Add the author info at the end of the post."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4831
+msgctxt "Admin - Theme Options Search"
+msgid "blog post author box info"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4839
+msgctxt "Admin - Theme Options"
+msgid "Author Box Style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4841
+msgctxt "Admin - Theme Options"
+msgid "Set the author box style."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4842
+msgctxt "Admin - Theme Options Search"
+msgid "blog post author box style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4852
+msgctxt "Admin - Theme Options"
+msgid "Related Posts"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4854
+msgctxt "Admin - Theme Options"
+msgid "Show related posts at the end of the post."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4855
+msgctxt "Admin - Theme Options Search"
+msgid "blog post related"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4863
+msgctxt "Admin - Theme Options"
+msgid "Related Posts Filter"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4865
+msgctxt "Admin - Theme Options"
+msgid "Show related posts based on:"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4866
+msgctxt "Admin - Theme Options Search"
+msgid "blog post related filter"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4876
+msgctxt "Admin - Theme Options"
+msgid "Related Posts Style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4878
+msgctxt "Admin - Theme Options"
+msgid "Set the related posts display style."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4879
+msgctxt "Admin - Theme Options Search"
+msgid "blog post related style"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4890
+msgctxt "Admin - Theme Options"
+msgid "Generally used as background for white sections."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4891
+msgctxt "Admin - Theme Options Search"
+msgid "white color"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4899
+msgctxt "Admin - Theme Options"
+msgid "Disable Blog"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4900
+msgctxt "Admin - Theme Options"
+msgid "Disable blog functionality."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4902
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer blog"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4910
+msgctxt "Admin - Theme Options"
+msgid "Disable Portfolio"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4911
+msgctxt "Admin - Theme Options"
+msgid "Disable portfolio functionality."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4913
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer portfolio"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4921
+msgctxt "Admin - Theme Options"
+msgid "Disable WooComerce"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4922
+msgctxt "Admin - Theme Options"
+msgid "Disable WooCommerce functionality."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4924
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer woocommerce"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4932
+msgctxt "Admin - Theme Options"
+msgid "Disable Theme Builder"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4933
+msgctxt "Admin - Theme Options"
+msgid "Disable Theme Builder functionality."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4935
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer theme builder"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4943
+msgctxt "Admin - Theme Options"
+msgid "Disable Custom Code"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4944
+msgctxt "Admin - Theme Options"
+msgid "Hide the Custom Code tab."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4946
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer custom code"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4954
+msgctxt "Admin - Theme Options"
+msgid "Disable Typography"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4955
+msgctxt "Admin - Theme Options"
+msgid "Hide the Typography tab."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4957
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer typography"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4965
+msgctxt "Admin - Theme Options"
+msgid "Disable Element Pack Pro Menu"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4966
+msgctxt "Admin - Theme Options"
+msgid "Hide Element Pack Pro menu from WordPress dashboard."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4968
+msgctxt "Admin - Theme Options Search"
+msgid "admin customizer element pack"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4976
+msgctxt "Admin - Theme Options"
+msgid "Custom Content in Header"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4977
+msgctxt "Admin - Theme Options"
+msgid "The content will be added in the &lt;/head&gt; section (use this for analytics code)."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4979
+msgctxt "Admin - Theme Options Search"
+msgid "custom script markup head"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4987
+msgctxt "Admin - Theme Options"
+msgid "Custom Content in Footer"
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4988
+msgctxt "Admin - Theme Options"
+msgid "The content will be added before the closing &lt;/body&gt; tag."
+msgstr ""
+
+#: ../includes/extra/class-settings.php:4990
+msgctxt "Admin - Theme Options Search"
+msgid "custom script markup footer"
+msgstr ""
+
+#: ../includes/portfolio/class-common.php:38
+msgid "portfolio"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: ../includes/portfolio/class-template.php:249
+msgctxt "Frontend - Portfolio"
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../includes/templates/extras.php:67
+msgctxt "Frontend - Cart aside"
+msgid "Close"
+msgstr ""
+
+#: ../includes/templates/page-title.php:148
+msgctxt "Frontend - Page title"
+msgid "Category: %s"
+msgstr ""
+
+#: ../includes/templates/page-title.php:145, ../includes/templates/page-title.php:360
+msgctxt "Frontend - Page title"
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/templates/page-title.php:82
+msgctxt "Frontend - Page title"
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../includes/templates/page-title.php:312
+msgctxt "Frontend - Page title"
+msgid "Home"
+msgstr ""
+
+#: ../includes/templates/pagination.php:26, ../includes/templates/pagination.php:45
+msgctxt "Frontend - Pagination"
+msgid "Posts navigation"
+msgstr ""
+
+#: ../includes/templates/search.php:44
+msgctxt "Frontend - FullScreen Search"
+msgid "Type and hit enter"
+msgstr ""
+
+#: ../includes/elementor/compatibility/class-wpml-ui-highlighted-text.php:30, ../includes/elementor/widgets/highlighted-text.php:36
+msgid "Highlighted Text"
+msgstr ""
+
+#: ../includes/elementor/generic/class-post-filter-control.php:51
+msgctxt "uicore-framework"
+msgid "Source"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-admin.php:91, ../includes/elementor/theme-builder/class-admin.php:92, ../includes/elementor/theme-builder/class-common.php:66, ../includes/elementor/theme-builder/documents/class-single.php:26
+msgid "Theme Builder"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-admin.php:182
+msgid "Mega Menu"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-admin.php:183
+msgid "Block"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-admin.php:184
+msgid "Popup"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-admin.php:194
+msgid "All"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:75
+msgctxt "Theme Builder"
+msgid "Type"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:219
+msgid "404 Page"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:223
+msgid "Search Page"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:227
+msgid "Blog / Posts Page"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:231
+msgid "Front Page"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:235
+msgid "Date Archive"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:239
+msgid "Author Archive"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:246
+msgid "WooCommerce Shop Page"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:253
+msgid "Basic"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:256
+msgid "Entire Website"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:260
+msgid "All Pages"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:264
+msgid "All Blog Posts"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:268
+msgid "All Portfolio Posts"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:272
+msgid "All Archives"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:280
+msgid "Special Pages"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:287
+msgid "Specific Target"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/class-common.php:290
+msgid "Specific Pages / Posts / Taxonomies, etc."
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:54
+msgid "Text"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:73
+msgid "Highlight Style"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:78, ../includes/elementor/widgets/highlighted-text.php:176
+msgid "Color"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:79
+msgid "Stroke 1"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:80
+msgid "Stroke 2"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:81
+msgid "Stroke 3"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:82
+msgid "Stroke 4"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:83
+msgid "Stroke 5"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:84
+msgid "Stroke 6"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:85
+msgid "Stroke 7"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:86
+msgid "Stroke 8"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:87
+msgid "Stroke 9"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:95
+msgid "Content"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:100
+msgid "This is my awesome"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:104
+msgid "highlight"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:108
+msgid "text."
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:120, ../includes/elementor/theme-builder/widgets/the-content.php:55
+msgid "Alignment"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:124, ../includes/elementor/theme-builder/widgets/the-content.php:59
+msgid "Left"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:128, ../includes/elementor/theme-builder/widgets/the-content.php:63
+msgid "Center"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:132, ../includes/elementor/theme-builder/widgets/the-content.php:67
+msgid "Right"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:146
+msgid "HTML Tag"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:168
+msgid "Shape"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:190
+msgid "Width"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:211
+msgid "Vertical Offset"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:238
+msgid "On"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:239
+msgid "Off"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:250
+msgid "Animation Delay"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:272
+msgid "Headline"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:280, ../includes/elementor/theme-builder/widgets/the-content.php:84
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/elementor/widgets/highlighted-text.php:295
+msgid "Highlighted Text Color"
+msgstr ""
+
+#: ../includes/elementor/widgets/icon-box.php:37
+msgid "Icon Box"
+msgstr ""
+
+#: ../includes/elementor/widgets/post-grid.php:40
+msgid "Post Grid"
+msgstr ""
+
+#: ../includes/elementor/widgets/post-grid.php:78
+msgid "Query"
+msgstr ""
+
+#: ../includes/elementor/widgets/post-grid.php:83
+msgid "Posts"
+msgstr ""
+
+#: ../includes/elementor/widgets/post-grid.php:87
+msgid "Item Limit"
+msgstr ""
+
+#: ../includes/elementor/widgets/post-grid.php:101
+msgid "Columns Number"
+msgstr ""
+
+#: ../includes/elementor/widgets/post-grid.php:118
+msgid "Item Style"
+msgstr ""
+
+#: ../includes/elementor/widgets/post-grid.php:123
+msgid "Simple"
+msgstr ""
+
+#: ../includes/elementor/widgets/post-grid.php:124
+msgid "Boxed"
+msgstr ""
+
+#: ../includes/elementor/widgets/post-grid.php:125
+msgid "Boxed Creative"
+msgstr ""
+
+#: ../includes/elementor/widgets/post-grid.php:126
+msgid "Cover"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/documents/class-base.php:33
+msgid "UiCore TB"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/widgets/the-content.php:24
+msgid "Post Content"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/widgets/the-content.php:47
+msgid "Style"
+msgstr ""
+
+#: ../includes/elementor/theme-builder/widgets/the-content.php:71
+msgid "Justified"
+msgstr ""

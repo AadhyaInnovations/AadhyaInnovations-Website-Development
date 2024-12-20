@@ -1,0 +1,1147 @@
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-0 START @ 09:18:47
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 8.1.27                                |8.1.25
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.1.25 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: LiteSpeed
+DOC ROOT____________: "/home/u896551592/domains/aadhyainnovations.com/public_html"
+REQUEST URL_________: "https://aadhyainnovations.com"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[blogname]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/u896551592/domains/aadhyainnovations.com/public_html"
+URL_NEW_____________: "https://aadhyainnovations.com"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/home/u896551592/domains/aadhyainnovations.com/public_html/aadhyanew_[HASH]_20240121091635_archive.zip"
+ARCHIVE SIZE________: 193.18MB
+CREATED_____________: 2024-01-21 09:16:35
+WP VERSION__________: 6.4.2
+DUP VERSION_________: 1.5.2.1
+LICENSE_____________: Free version
+DB VERSION__________: 10.3.39
+DB FILE SIZE________: 42.3MB
+DB TABLES___________: 56
+DB ROWS_____________: 49630
+URL HOME____________: https://hello.pagemantra.com/aadhya
+URL CORE____________: https://hello.pagemantra.com/aadhya
+URL CONTENT_________: https://hello.pagemantra.com/aadhya/wp-content
+URL UPLOAD__________: https://hello.pagemantra.com/aadhya/wp-content/uploads
+URL PLUGINS_________: https://hello.pagemantra.com/aadhya/wp-content/plugins
+URL MU PLUGINS______: https://hello.pagemantra.com/aadhya/wp-content/mu-plugins
+URL THEMES__________: https://hello.pagemantra.com/aadhya/wp-content/themes
+PATH HOME___________: /home/pagemantraroot/public_html/hello.pagemantra.com/aadhya
+PATH ABS____________: /home/pagemantraroot/public_html/hello.pagemantra.com/aadhya
+PATH WPCONFIG_______: /home/pagemantraroot/public_html/hello.pagemantra.com/aadhya
+PATH WPCONTENT______: /home/pagemantraroot/public_html/hello.pagemantra.com/aadhya/wp-content
+PATH UPLOADS________: /home/pagemantraroot/public_html/hello.pagemantra.com/aadhya/wp-content/uploads
+PATH PLUGINS________: /home/pagemantraroot/public_html/hello.pagemantra.com/aadhya/wp-content/plugins
+PATH MUPLUGINS______: /home/pagemantraroot/public_html/hello.pagemantra.com/aadhya/wp-content/mu-plugins
+PATH THEMES_________: /home/pagemantraroot/public_html/hello.pagemantra.com/aadhya/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "hello.pagemantra.com/aadhya/"
+
+PLUGINS
+PLUGIN [SLUG:advanced-database-cleaner/advanced-db-cleaner.php ][ON:true ]  Advanced Database Cleaner
+PLUGIN [SLUG:akismet/akismet.php                               ][ON:false]  Akismet Anti-Spam
+PLUGIN [SLUG:all-in-one-wp-migration/all-in-one-wp-migration.php][ON:true ]  All-in-One WP Migration
+PLUGIN [SLUG:beautiful-and-responsive-cookie-consent/nsc_bar-cookie-consent.php][ON:true ]  Beautiful and responsive cookie consent
+PLUGIN [SLUG:better-search-replace/better-search-replace.php   ][ON:true ]  Better Search Replace
+PLUGIN [SLUG:borlabs-cookie/borlabs-cookie.php                 ][ON:false]  Borlabs Cookie - Cookie Opt-in
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:false]  Contact Form 7
+PLUGIN [SLUG:cryptocurrency-price-ticker-widget/cryptocurrency-price-ticker-widget.php][ON:false]  Cryptocurrency Widgets
+PLUGIN [SLUG:disable-wp-notification/disable-wp-notification.php][ON:false]  Disable WP Notification
+PLUGIN [SLUG:duplicate-page/duplicatepage.php                  ][ON:true ]  Duplicate Page
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:bdthemes-element-pack/bdthemes-element-pack.php   ][ON:true ]  Element Pack Pro
+PLUGIN [SLUG:formidable/formidable.php                         ][ON:false]  Formidable Forms
+PLUGIN [SLUG:formidable-pro/formidable-pro.php                 ][ON:false]  Formidable Forms Pro
+PLUGIN [SLUG:gtranslate/gtranslate.php                         ][ON:true ]  GTranslate
+PLUGIN [SLUG:hello.php                                         ][ON:false]  Hello Dolly
+PLUGIN [SLUG:litespeed-cache/litespeed-cache.php               ][ON:false]  LiteSpeed Cache
+PLUGIN [SLUG:media-cleaner/media-cleaner.php                   ][ON:false]  Media Cleaner
+PLUGIN [SLUG:media-cleaner-pro/media-cleaner-pro.php           ][ON:false]  Media Cleaner (Pro)
+PLUGIN [SLUG:migrate-guru/migrateguru.php                      ][ON:true ]  Migrate Guru
+PLUGIN [SLUG:mousewheel-smooth-scroll/mousewheel-smooth-scroll.php][ON:true ]  MouseWheel Smooth Scroll
+PLUGIN [SLUG:nitropack/main.php                                ][ON:true ]  NitroPack
+PLUGIN [SLUG:revslider/revslider.php                           ][ON:true ]  Slider Revolution
+PLUGIN [SLUG:uicore-framework/plugin.php                       ][ON:true ]  UiCore Framework
+PLUGIN [SLUG:wordfence/wordfence.php                           ][ON:true ]  Wordfence Security
+PLUGIN [SLUG:wp-bottom-menu/wp-bottom-menu.php                 ][ON:false]  WP Bottom Menu
+PLUGIN [SLUG:wp-force-ssl/wp-force-ssl.php                     ][ON:false]  WP Force SSL
+PLUGIN [SLUG:wpforms/wpforms.php                               ][ON:false]  WPForms
+PLUGIN [SLUG:wpforms-lite/wpforms.php                          ][ON:false]  WPForms Lite
+PLUGIN [SLUG:wp-job-manager/wp-job-manager.php                 ][ON:true ]  WP Job Manager
+PLUGIN [SLUG:wp-job-openings/wp-job-openings.php               ][ON:false]  WP Job Openings
+PLUGIN [SLUG:wp-reset/wp-reset.php                             ][ON:true ]  WP Reset PRO
+
+********************************************************************************
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.22830]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.22571]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/u896551592/domains/aadhyainnovations.com/public_html"
+--------------------------------------
+LOG-TIME[DELTA:   0.01358]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00010]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.01749]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00662]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00167]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00068]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00029]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/classes/database/class.db.php:639] MSG: SELECT command denied to user 'u896551592_mydatabase'@'localhost' for table `mysql`.`user`
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'u896551592_mydatabase' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/classes/validation/class.validation.database.service.php[743]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/classes/validation/class.validation.abstract.item.php[45]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/classes/validation/class.validation.manager.php[229]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/classes/validation/class.validation.manager.php[202]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php[168]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php[93]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/main.installer.php[56]
+
+LOG-TIME[DELTA:   0.00010]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.02659]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00035]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00052]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: hard warning
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00032]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00028]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/home/u896551592/domains/aadhyainnovations.com/public_html"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-1 START @ 09:19:06
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "AADHYA INNOVATIONS"
+HOME URL NEW________: "https://aadhyainnovations.com"
+SITE URL NEW________: "https://aadhyainnovations.com/"
+CONTENT URL NEW_____: "https://aadhyainnovations.com/wp-content"
+UPLOAD URL NEW______: "https://aadhyainnovations.com/wp-content/uploads"
+PLUGINS URL NEW_____: "https://aadhyainnovations.com/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://aadhyainnovations.com/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/u896551592/domains/aadhyainnovations.com/public_html"
+SITE PATH NEW_______: "/home/u896551592/domains/aadhyainnovations.com/public_html/"
+CONTENT PATH NEW____: "/home/u896551592/domains/aadhyainnovations.com/public_html/wp-content"
+UPLOAD PATH NEW_____: "/home/u896551592/domains/aadhyainnovations.com/public_html/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/u896551592/domains/aadhyainnovations.com/public_html/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/u896551592/domains/aadhyainnovations.com/public_html/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer"
+	FILE: "/home/u896551592/domains/aadhyainnovations.com/public_html/aadhyanew_[HASH]_20240121091635_installer-backup.php"
+	FILE: "/home/u896551592/domains/aadhyainnovations.com/public_html/aadhyanew_[HASH]_20240121091635_archive.zip"
+	FILE: "/home/u896551592/domains/aadhyainnovations.com/public_html/installer.php"
+	FILE: "/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer-bootlog__faccbd0-21091635.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "aadhyanew_[HASH]_20240121091635_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> START
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+FILE EXTRACTION: done processing last file in list of 25969
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 09:19:10 - RUNTIME: 4.2997 sec. - Files processed: 25,368 of 25,368
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wp_
+
+
+
+********************************************************************************
+* DUPLICATOR LITE: INSTALL-LOG
+* STEP-2 START @ 09:19:11
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wp_borlabs_cookie_consent_log"___________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_borlabs_cookie_consent_log]
+TABLE "wp_borlabs_cookie_content_blocker"_______________[ROWS:       8] [EXTRACT|REPLACE] [INST NAME: wp_borlabs_cookie_content_blocker]
+TABLE "wp_borlabs_cookie_cookies"_______________________[ROWS:       8] [EXTRACT|REPLACE] [INST NAME: wp_borlabs_cookie_cookies]
+TABLE "wp_borlabs_cookie_groups"________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wp_borlabs_cookie_groups]
+TABLE "wp_borlabs_cookie_script_blocker"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_borlabs_cookie_script_blocker]
+TABLE "wp_borlabs_cookie_statistics"____________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_borlabs_cookie_statistics]
+TABLE "wp_commentmeta"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_commentmeta]
+TABLE "wp_comments"_____________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_comments]
+TABLE "wp_duplicator_packages"__________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_packages]
+TABLE "wp_e_events"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_e_events]
+TABLE "wp_links"________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_links]
+TABLE "wp_options"______________________________________[ROWS:     391] [EXTRACT|REPLACE] [INST NAME: wp_options]
+TABLE "wp_postmeta"_____________________________________[ROWS:    2381] [EXTRACT|REPLACE] [INST NAME: wp_postmeta]
+TABLE "wp_posts"________________________________________[ROWS:     677] [EXTRACT|REPLACE] [INST NAME: wp_posts]
+TABLE "wp_revslider_css"________________________________[ROWS:     109] [EXTRACT|REPLACE] [INST NAME: wp_revslider_css]
+TABLE "wp_revslider_css_bkp"____________________________[ROWS:      47] [EXTRACT|REPLACE] [INST NAME: wp_revslider_css_bkp]
+TABLE "wp_revslider_layer_animations"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_layer_animations]
+TABLE "wp_revslider_layer_animations_bkp"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_layer_animations_bkp]
+TABLE "wp_revslider_navigations"________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_revslider_navigations]
+TABLE "wp_revslider_navigations_bkp"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_navigations_bkp]
+TABLE "wp_revslider_sliders"____________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_revslider_sliders]
+TABLE "wp_revslider_sliders_bkp"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_sliders_bkp]
+TABLE "wp_revslider_slides"_____________________________[ROWS:      14] [EXTRACT|REPLACE] [INST NAME: wp_revslider_slides]
+TABLE "wp_revslider_slides_bkp"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_slides_bkp]
+TABLE "wp_revslider_static_slides"______________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_revslider_static_slides]
+TABLE "wp_revslider_static_slides_bkp"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_static_slides_bkp]
+TABLE "wp_termmeta"_____________________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wp_termmeta]
+TABLE "wp_terms"________________________________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: wp_terms]
+TABLE "wp_term_relationships"___________________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: wp_term_relationships]
+TABLE "wp_term_taxonomy"________________________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: wp_term_taxonomy]
+TABLE "wp_usermeta"_____________________________________[ROWS:      25] [EXTRACT|REPLACE] [INST NAME: wp_usermeta]
+TABLE "wp_users"________________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_users]
+TABLE "wp_wfblockediplog"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfblockediplog]
+TABLE "wp_wfblocks7"____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfblocks7]
+TABLE "wp_wfconfig"_____________________________________[ROWS:     252] [EXTRACT|REPLACE] [INST NAME: wp_wfconfig]
+TABLE "wp_wfcrawlers"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfcrawlers]
+TABLE "wp_wffilechanges"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wffilechanges]
+TABLE "wp_wffilemods"___________________________________[ROWS:   24032] [EXTRACT|REPLACE] [INST NAME: wp_wffilemods]
+TABLE "wp_wfhits"_______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfhits]
+TABLE "wp_wfhoover"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfhoover]
+TABLE "wp_wfissues"_____________________________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: wp_wfissues]
+TABLE "wp_wfknownfilelist"______________________________[ROWS:   24032] [EXTRACT|REPLACE] [INST NAME: wp_wfknownfilelist]
+TABLE "wp_wflivetraffichuman"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflivetraffichuman]
+TABLE "wp_wflocs"_______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflocs]
+TABLE "wp_wflogins"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflogins]
+TABLE "wp_wfls_2fa_secrets"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfls_2fa_secrets]
+TABLE "wp_wfls_role_counts"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfls_role_counts]
+TABLE "wp_wfls_settings"________________________________[ROWS:      30] [EXTRACT|REPLACE] [INST NAME: wp_wfls_settings]
+TABLE "wp_wfnotifications"______________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_wfnotifications]
+TABLE "wp_wfpendingissues"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfpendingissues]
+TABLE "wp_wfreversecache"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfreversecache]
+TABLE "wp_wfsecurityevents"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfsecurityevents]
+TABLE "wp_wfsnipcache"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfsnipcache]
+TABLE "wp_wfstatus"_____________________________________[ROWS:     657] [EXTRACT|REPLACE] [INST NAME: wp_wfstatus]
+TABLE "wp_wftrafficrates"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wftrafficrates]
+TABLE "wp_wfwaffailures"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfwaffailures]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.6.16 -- Build Server: 10.3.39
+FILE SIZE:	dup-database__[HASH].sql (31.92MB)
+TIMEOUT:	5000
+MAXPACK:	1073741824
+SQLMODE-GLOBAL:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+GLOBAL RULES ADDED: INVALID CHARSETS
+GLOBAL RULES ADDED: INVALID COLLATIONS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`u896551592_mydatabase`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8))([`'"]?\s.*COLLATE\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?.*$)/m
+	REPLACE => $1utf8mb4$3utf8mb4_general_ci$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?\s.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4_general_ci$3utf8mb4$5
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4$3
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?\s.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8_general_ci))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4$3utf8mb4_general_ci$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8_general_ci))([`'"]?\s.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?.*$)/m
+	REPLACE => $1utf8mb4_general_ci$3utf8mb4$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8_general_ci))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4_general_ci$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 19218003
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 24346429
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 29243721
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 32710195
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	52816
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_borlabs_cookie_consent_log"___________________[ROWS:     1]
+TABLE "wp_borlabs_cookie_content_blocker"_______________[ROWS:     8]
+TABLE "wp_borlabs_cookie_cookies"_______________________[ROWS:     8]
+TABLE "wp_borlabs_cookie_groups"________________________[ROWS:     4]
+TABLE "wp_borlabs_cookie_script_blocker"________________[ROWS:     0]
+TABLE "wp_borlabs_cookie_statistics"____________________[ROWS:     2]
+TABLE "wp_commentmeta"__________________________________[ROWS:     0]
+TABLE "wp_comments"_____________________________________[ROWS:     1]
+TABLE "wp_duplicator_packages"__________________________[ROWS:     1]
+TABLE "wp_e_events"_____________________________________[ROWS:     0]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   391]
+TABLE "wp_postmeta"_____________________________________[ROWS:  2381]
+TABLE "wp_posts"________________________________________[ROWS:   677]
+TABLE "wp_revslider_css"________________________________[ROWS:   109]
+TABLE "wp_revslider_css_bkp"____________________________[ROWS:    47]
+TABLE "wp_revslider_layer_animations"___________________[ROWS:     0]
+TABLE "wp_revslider_layer_animations_bkp"_______________[ROWS:     0]
+TABLE "wp_revslider_navigations"________________________[ROWS:     1]
+TABLE "wp_revslider_navigations_bkp"____________________[ROWS:     0]
+TABLE "wp_revslider_sliders"____________________________[ROWS:     3]
+TABLE "wp_revslider_sliders_bkp"________________________[ROWS:     0]
+TABLE "wp_revslider_slides"_____________________________[ROWS:    14]
+TABLE "wp_revslider_slides_bkp"_________________________[ROWS:     0]
+TABLE "wp_revslider_static_slides"______________________[ROWS:     3]
+TABLE "wp_revslider_static_slides_bkp"__________________[ROWS:     0]
+TABLE "wp_term_relationships"___________________________[ROWS:    24]
+TABLE "wp_term_taxonomy"________________________________[ROWS:     9]
+TABLE "wp_termmeta"_____________________________________[ROWS:     5]
+TABLE "wp_terms"________________________________________[ROWS:     9]
+TABLE "wp_usermeta"_____________________________________[ROWS:    25]
+TABLE "wp_users"________________________________________[ROWS:     1]
+TABLE "wp_wfblockediplog"_______________________________[ROWS:     0]
+TABLE "wp_wfblocks7"____________________________________[ROWS:     0]
+TABLE "wp_wfconfig"_____________________________________[ROWS:   252]
+TABLE "wp_wfcrawlers"___________________________________[ROWS:     0]
+TABLE "wp_wffilechanges"________________________________[ROWS:     0]
+TABLE "wp_wffilemods"___________________________________[ROWS: 24032]
+TABLE "wp_wfhits"_______________________________________[ROWS:     0]
+TABLE "wp_wfhoover"_____________________________________[ROWS:     0]
+TABLE "wp_wfissues"_____________________________________[ROWS:    24]
+TABLE "wp_wfknownfilelist"______________________________[ROWS: 24032]
+TABLE "wp_wflivetraffichuman"___________________________[ROWS:     0]
+TABLE "wp_wflocs"_______________________________________[ROWS:     0]
+TABLE "wp_wflogins"_____________________________________[ROWS:     0]
+TABLE "wp_wfls_2fa_secrets"_____________________________[ROWS:     0]
+TABLE "wp_wfls_role_counts"_____________________________[ROWS:     0]
+TABLE "wp_wfls_settings"________________________________[ROWS:    30]
+TABLE "wp_wfnotifications"______________________________[ROWS:     2]
+TABLE "wp_wfpendingissues"______________________________[ROWS:     0]
+TABLE "wp_wfreversecache"_______________________________[ROWS:     0]
+TABLE "wp_wfsecurityevents"_____________________________[ROWS:     0]
+TABLE "wp_wfsnipcache"__________________________________[ROWS:     0]
+TABLE "wp_wfstatus"_____________________________________[ROWS:   657]
+TABLE "wp_wftrafficrates"_______________________________[ROWS:     0]
+TABLE "wp_wfwaffailures"________________________________[ROWS:     0]
+
+INSERT DATA RUNTIME: 22.5954 sec.
+STEP-2 COMPLETE @ 09:19:33 - RUNTIME: 22.5954 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/pagemantraroot/public_html/hello.pagemantra.com/aadhya REPLACE: /home/u896551592/domains/aadhyainnovations.com/public_html/ [SCOPE: ALL]
+SEARCH ITEM[T:path |P:12] SEARCH: /home/pagemantraroot/public_html/hello.pagemantra.com/aadhya REPLACE: /home/u896551592/domains/aadhyainnovations.com/public_html [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://hello.pagemantra.com/aadhya REPLACE: https://aadhyainnovations.com/ [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://hello.pagemantra.com/aadhya REPLACE: https://aadhyainnovations.com [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR LITE: INSTALL-LOG
+STEP-3 START @ 09:19:34
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 1], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = 1], [inWpConfig = 1]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 256M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wp_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_ui_view_state","duplicator_package_active","duplicator_settings","duplicator_is_pro_enable_notice_dismissed")
+DATABASE OPTIONS DELETED [ROWS:    67]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wp_borlabs_cookie_consent_log"___________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_borlabs_cookie_consent_log][0]
+
+EVALUATE TABLE: "wp_borlabs_cookie_content_blocker"_______________[ROWS:     8][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_borlabs_cookie_content_blocker][0]
+
+EVALUATE TABLE: "wp_borlabs_cookie_cookies"_______________________[ROWS:     8][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_borlabs_cookie_cookies][0]
+
+EVALUATE TABLE: "wp_borlabs_cookie_groups"________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_borlabs_cookie_groups][0]
+
+EVALUATE TABLE: "wp_borlabs_cookie_script_blocker"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_borlabs_cookie_statistics"____________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_borlabs_cookie_statistics][0]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_comments][0]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_events"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   324][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  2381][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][2]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   677][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+
+EVALUATE TABLE: "wp_revslider_css"________________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_css][0]
+
+EVALUATE TABLE: "wp_revslider_css_bkp"____________________________[ROWS:    47][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_css_bkp][0]
+
+EVALUATE TABLE: "wp_revslider_layer_animations"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_layer_animations_bkp"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_navigations"________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_navigations][0]
+
+EVALUATE TABLE: "wp_revslider_navigations_bkp"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_sliders"____________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_sliders][0]
+
+EVALUATE TABLE: "wp_revslider_sliders_bkp"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_slides"_____________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_slides][0]
+
+EVALUATE TABLE: "wp_revslider_slides_bkp"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_static_slides"______________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_static_slides][0]
+
+EVALUATE TABLE: "wp_revslider_static_slides_bkp"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_termmeta][0]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:    24][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    25][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+
+EVALUATE TABLE: "wp_wfblockediplog"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfblocks7"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfconfig"_____________________________________[ROWS:   252][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfconfig][0]
+
+EVALUATE TABLE: "wp_wfcrawlers"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilechanges"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilemods"___________________________________[ROWS: 24032][PG:  25][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][5]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][6]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][7]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][8]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][9]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][10]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][11]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][12]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][13]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][14]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][15]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][16]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][17]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][18]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][19]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][20]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][21]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][22]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][23]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][24]
+
+EVALUATE TABLE: "wp_wfhits"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfhoover"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfissues"_____________________________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfissues][0]
+
+EVALUATE TABLE: "wp_wfknownfilelist"______________________________[ROWS: 24032][PG:  25][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][0]
+	
+STEP-3 CHUNK STOP @ 09:19:39 - RUNTIME: 5.0635 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][1]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][2]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][3]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][4]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][5]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][6]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][7]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][8]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][9]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][10]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][11]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][12]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][13]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][14]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][15]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][16]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][17]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][18]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][19]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][20]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][21]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][22]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][23]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][24]
+
+EVALUATE TABLE: "wp_wflivetraffichuman"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflocs"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflogins"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_2fa_secrets"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_role_counts"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_settings"________________________________[ROWS:    30][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfls_settings][0]
+
+EVALUATE TABLE: "wp_wfnotifications"______________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfnotifications][0]
+
+EVALUATE TABLE: "wp_wfpendingissues"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfreversecache"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfsecurityevents"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfsnipcache"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfstatus"_____________________________________[ROWS:   657][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/pagemantraroot/public_html/hello.pagemantra.com/aadhya" => "/home/u896551592/domains/aadhyainnovations.com/public_html"
+	SEARCH[urlnd]  2:"https://hello.pagemantra.com/aadhya" =============> "https://aadhyainnovations.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfstatus][0]
+
+EVALUATE TABLE: "wp_wftrafficrates"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfwaffailures"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:56 	|	 Rows:52661 	|	 Cells:344823 
+UPDATED:	Tables:9 	|	 Rows:48291 	|	 Cells:48358 
+ERRORS:		0 
+RUNTIME:	9.064800 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/u896551592/domains/aadhyainnovations.com/public_html/wp-config.php
+New htaccess file created:/home/u896551592/domains/aadhyainnovations.com/public_html/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE WP_SITEURL "https://aadhyainnovations.com/"
+	UPDATE DB_NAME ""u896551592_mydatabase""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE "true"
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+Activated plugins listed here will be deactivated: Array
+(
+)
+
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/home/u896551592/domains/aadhyainnovations.com/public_html"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 09:19:43 - RUNTIME: 3.8291 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[NOTICE] Warnings or notices on WordPress front-end tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /home/u896551592/domains/aadhyainnovations.com/public_html/index.php
+E_DEPRECATED Automatic conversion of false to array is deprecated
+	FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-content/plugins/uicore-framework/includes/templates/page-title.php[417]
+	--- TRACE ---
+	CLASS___: UiCore\PageTitle->get_the_breadcrumbFILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-content/plugins/uicore-framework/includes/templates/page-title.php[197]
+	CLASS___: UiCore\PageTitle->set_data    FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-content/plugins/uicore-framework/includes/templates/page-title.php[64]
+	CLASS___: UiCore\PageTitle->init        FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-content/plugins/uicore-framework/includes/templates/page-title.php[31]
+	CLASS___: UiCore\PageTitle->UiCore\{closure}FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-includes/plugin.php[565]
+	FUNCTION: do_action_ref_array           FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-includes/class-wp.php[830]
+	CLASS___: WP->main                      FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-includes/functions.php[1336]
+	FUNCTION: wp                            FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-blog-header.php[16]
+	FUNCTION: require                       FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u896551592/domains/aadhyainnovations.com/public_html/wp-content/wp_test_script_faccbd0-21091635.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+====================================
+LOG-TIME[/home/u896551592/domains/aadhyainnovations.com/public_html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.01121]  MESSAGE:END RENDER PAGE

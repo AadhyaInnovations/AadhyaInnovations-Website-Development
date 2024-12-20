@@ -1,0 +1,32 @@
+{
+    "webpreview.dreamhosters.com": {
+        "siteId": "OpBVMlOYgATRodnHyAOfcxCoNipYuGTi",
+        "siteSecret": "SngTIVPp92a3qLXDLnc0nVLFOMB7firrHJUPShmXTmdIxXquoEp0ay97DLYDCOoU",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "e7f154f7e0c0c1dabaaa9198362d1031",
+        "home_url": "https:\/\/webpreview.dreamhosters.com",
+        "admin_url": "https:\/\/webpreview.dreamhosters.com\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": false,
+        "isAeliaCurrencySwitcherActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.19",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": false,
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        },
+        "additional_domains": []
+    },
+    "config_path": "84eb5d6c854484bd9e00ed28cc224eef"
+}

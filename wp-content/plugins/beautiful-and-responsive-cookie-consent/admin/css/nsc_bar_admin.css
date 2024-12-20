@@ -1,0 +1,113 @@
+#nsc_bar_admin_title {
+  background: url("../img/icon-96x96.png") no-repeat left center;
+  background-size: 48px 48px;
+  line-height: 35px !important;
+  padding-left: 55px !important;
+}
+
+.nsc_bar_notice_block_services {
+  background: #fff;
+  border: 1px solid #c3c4c7;
+  border-left-width: 4px;
+  box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+  margin: 5px 15px 2px;
+  padding: 1px 12px;
+  border-left: 4px solid #dba617;
+}
+
+.nsc_bar_cookietypes_table td,
+th {
+  padding: 0em;
+}
+
+.nsc_bar_cookietypes_table th {
+  padding: 0em;
+}
+
+label.nsc_bar_inline_error {
+  text-align: center;
+  color: #cc0000;
+  font-weight: bold;
+  font-size: 0.8em;
+}
+
+input.nsc_bar_inline_error {
+  background: #cc0000;
+  color: white;
+}
+
+@media screen and (max-width: 782px) {
+  .nsc_bar_cookietypes_table
+    tr:not(.inline-edit-row):not(.no-items)
+    td:not(.column-primary)::before {
+    position: relative;
+    left: 2px;
+    display: block;
+    overflow: hidden;
+    content: attr(data-colname);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .nsc_bar_cookietypes_table th {
+    display: none;
+  }
+  .nsc_bar_cookietypes_table tr {
+    background: #f9f9f9;
+  }
+
+  .nsc_bar_cookietypes_table td {
+    padding: 0.5em;
+  }
+  .nsc_bar_cookietypes_table {
+    border-spacing: 1em 1em;
+    position: relative;
+    top: -2em;
+  }
+}
+
+#nsc_settings_content {
+  float: left;
+  min-width: 600px;
+  width: 72%;
+}
+
+#nsc_bar_sidebar .nsc_bar_info_box h3 {
+  padding: 0 0 1em 0;
+  margin: 0;
+  border-bottom: 1px solid #ececec;
+}
+
+#nsc_bar_sidebar .nsc_bar_info_box {
+  background-color: #fff;
+  padding: 1em;
+  margin: 0 0 1em 0;
+}
+
+#nsc_bar_sidebar {
+  width: 280px;
+  float: right;
+  padding: 1em 0 0 1em;
+}
+
+#nsc_bar_sidebar .nsc_bar_inside_text {
+  margin: 1em 0;
+}
+
+@media (max-width: 1278px) {
+  #nsc_bar_sidebar {
+    padding: 1em 1em 1em 0;
+    width: 100%;
+    float: left;
+  }
+
+  #nsc_settings_content {
+    width: 100%;
+  }
+}
+
+@media (max-width: 390px) {
+  #nsc_bar_sidebar {
+    width: 280px;
+  }
+}

@@ -1,0 +1,22 @@
+/* .wp-editor-container{
+    display: none !important;
+}
+.wp-media-buttons{
+    display: none !important;
+}
+.hide-if-no-js{
+    display: none !important;
+}
+.wp-editor-tabs{
+    display: none !important;
+} */
+
+.cmb2-id-deletecache .wp-editor-container{
+    display: none !important;
+}
+.cmb2-id-deletecache .wp-media-buttons{
+    display: none !important;
+}
+.cmb2-id-deletecache .hide-if-no-js{
+    display: none !important;
+}
